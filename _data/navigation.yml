@@ -1,5 +1,9 @@
 main:
-    - title: "Home"
+    - title: Home
       url: /
-    - title: "About the project"
+    - title: Blog
+      url: /_pages/blog/
+    - title: About the project
       url: /about/
+    - title: Resources
+      url: /resources/
