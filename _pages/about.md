@@ -16,6 +16,6 @@ Travelogues are a highly important historical source, as they give deep insights
 
 ### Project lead
 
-Prof. Arno Strohmeyer, Salzburg/Wien
+Prof. Arno Strohmeyer, Salzburg/Vienna
 
 ### Project team

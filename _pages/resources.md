@@ -8,8 +8,8 @@ toc-label: Project resources
 
 ## GitHub
 
-Should we publish code on github?
+Code that we want to publish will be available [on GitHub](https://github.com/Travelogues).
 
 ## Publications
 
-We could use this as a dissemination platform: anounce publications, conferences we go to, workshops we give...
+Upcoming publications, workshops etc. will be published here, as soon as they are available.
