@@ -16,6 +16,14 @@ Travelogues are a highly important historical source, as they give deep insights
 
 ### Project lead
 
-Prof. Arno Strohmeyer, Salzburg/Vienna
+Prof. Arno Strohmeyer, [Austrian Academy of Science - INZ](https://www.oeaw.ac.at/inz/)
 
-### Project team
+MMag.<sup>a</sup> phil. Doris Gruber
+
+### Project team (this list is not complete as of May 9th, 2018)
+
+Dr. Besnik Fetahu, [LUH/L3S](https://www.l3s.de/en/home)
+
+Lijun Lyu, M.Sc., [LUH/L3S](https://www.l3s.de/en/home)
+
+Jan Rörden, [Austrian Institute of Technology](https://www.ait.ac.at/en/)
