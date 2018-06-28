@@ -1,3 +1,7 @@
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
 <div style="display:flex; justify-content:space-between">
     <a href="https://www.uni-salzburg.at">
         <img src="/images/logos/salzburg_transparent.png" alt="Logo, Universität Salzburg" height="72">
