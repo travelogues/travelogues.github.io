@@ -40,3 +40,8 @@ Thumbs.db
 ################
 _site/
 .jekyll_metadata
+
+# Ruby stuff #
+##############
+vendor/
+.bundle/
