@@ -14,6 +14,8 @@ feature_row:
     btn_label: Read More
 ---
 
-# Welcome to the Travelogues project!
+# Welcome to the *Travelogues* project!
+
+Travelogues: Perceptions of the Other and the Orient in Modern Times. A Mixed-method Approach for the Analysis of Large-scale Travel Account Series.
 
 {% include feature_row type="center" %}
