@@ -1,12 +1,12 @@
 ---
-permalink: /resources/
-title: Project resources
+permalink: /output/
+title: Project output
 layout: single
 toc: true
-toc-label: Project resources
+toc-label: Project output
 ---
 
-## GitHub
+## Code
 
 Code that we want to publish will be available [on GitHub](https://github.com/Travelogues).
 

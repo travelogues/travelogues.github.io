@@ -1,9 +1,13 @@
 main:
     - title: Home
       url: /
+    - title: The Project
+      url: /about/
+    - title: Team
+      url: /team/
     - title: Blog
       url: /_pages/blog/
-    - title: About the project
-      url: /about/
-    - title: Resources
-      url: /resources/
+    - title: Output
+      url: /output/
+    - title: Contact
+      url: /contact/
