@@ -6,15 +6,13 @@ toc: true
 toc-label: Project team
 ---
 
-## The team
-
-### Project lead
+## Project lead
 
 Prof. Arno Strohmeyer, [Austrian Academy of Sciences – INZ](https://www.oeaw.ac.at/inz/personen/strohmeyer-arno/)
 
 Dr.<sup>in</sup> phil. MMag.<sup>a</sup> phil. Doris Gruber, [Austrian Academy of Sciences - INZ](https://www.oeaw.ac.at/inz/personen/gruber-doris/)
 
-### Project team
+## Project team
 
 Dr. Besnik Fetahu, [Leibniz University Hannover/L3S](https://www.l3s.de/en/users/fetahu)
 
