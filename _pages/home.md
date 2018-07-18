@@ -3,8 +3,11 @@ permalink: /
 title: "Welcome to the Travelogues project!"
 layout: splash
 header:
-    image: /images/banner_scaled.png
+    overlay_image: /images/banner_scaled.png
+    cta_label: "More info"
+    cta_url: /about
 # Photo by Darran Shen on Unsplash: https://unsplash.com/photos/aOiUF_KOeEc
+excerpt: "Travelogues: Perceptions of the Other and the Orient in Modern Times. A Mixed-method Approach for the Analysis of Large-scale Travel Account Series"
 feature_row:
   - # image_path:
     alt: "<placeholder-group-photo>"
@@ -13,9 +16,5 @@ feature_row:
     url: /blog/20180417/project_start.html
     btn_label: Read More
 ---
-
-# Welcome to the *Travelogues* project!
-
-Travelogues: Perceptions of the Other and the Orient in Modern Times. A Mixed-method Approach for the Analysis of Large-scale Travel Account Series.
 
 {% include feature_row type="center" %}
