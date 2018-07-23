@@ -3,7 +3,7 @@ permalink: /team/
 title: Project team
 layout: single
 toc: true
-toc-label: Project team
+toc_label: Project team
 ---
 
 ## Project lead

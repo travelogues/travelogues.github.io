@@ -3,7 +3,7 @@ permalink: /output/
 title: Project output
 layout: single
 toc: true
-toc-label: Project output
+toc_label: Project output
 ---
 
 ## Code
