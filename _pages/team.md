@@ -10,21 +10,19 @@ toc_label: Project team
 
 ## Project lead
 
-
 Univ.-Prof. Mag. Dr. Arno Strohmeyer <a href="https://www.oeaw.ac.at/inz/personen/strohmeyer-arno/"><i class="fas fa-info-circle"></i></a><br>
 Austrian Academy of Sciences – INZ<br>
 [arno.strohmeyer(at)oeaw.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;bsop/tuspinfzfsApfbx/bd/bu');)
 
-
 ## Project team
 
-Dr.<sup>in</sup> phil. MMag.<sup>a</sup> phil. Doris Gruber <a href="https://www.oeaw.ac.at/inz/personen/gruber-doris/"><i class="fas fa-info-circle"></i></a><br>
+MMag. Dr. Doris Gruber <a href="https://www.oeaw.ac.at/inz/personen/gruber-doris/"><i class="fas fa-info-circle"></i></a><br>
 Austrian Academy of Sciences - INZ<br>
-[doris.gruber(at)oeaw.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;bsop/tuspinfzfsApfbx/bd/bu');)
+[doris.gruber(at)oeaw.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;epsjt/hsvcfsApfbx/bd/bu');)
 
 Mag. Martin Krickl <a href="https://www.onb.ac.at"><i class="fas fa-info-circle"></i></a><br>
 Austrian National Library<br>
-[martin.krickl(at)onb.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;nbsujo/lsjdlApoc/bd/bu');)
+[martin.krickl(at)onb.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;nbsujo/lsjdlmApoc/bd/bu');)
 
 Lijun Lyu, M.Sc. <a href="https://www.l3s.de/en/user/lyu"><i class="fas fa-info-circle"></i></a><br>
 Leibniz University Hannover/L3S<br>
