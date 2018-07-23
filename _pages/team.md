@@ -32,7 +32,7 @@ Leibniz University Hannover/L3S<br>
 
 Jan Rörden, MA <a href="https://www.ait.ac.at/en/"><i class="fas fa-info-circle"></i></a><br>
 Austrian Institute of Technology<br>
-[jan.roerden@ait.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;kbo/spfsefoAbju/bd/bu');)
+[jan.roerden(at)ait.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;kbo/spfsefoAbju/bd/bu');)
 
 ## Research partners in Austria
 
