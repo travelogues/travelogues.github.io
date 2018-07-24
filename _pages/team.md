@@ -11,13 +11,13 @@ toc_label: Project team
 ## Project lead
 
 Univ.-Prof. Mag. Dr. Arno Strohmeyer <a href="https://www.oeaw.ac.at/inz/personen/strohmeyer-arno/"><i class="fas fa-info-circle"></i></a><br>
-Austrian Academy of Sciences – INZ<br>
+Austrian Academy of Sciences, INZ<br>
 [arno.strohmeyer(at)oeaw.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;bsop/tuspinfzfsApfbx/bd/bu');)
 
 ## Project team
 
 MMag. Dr. Doris Gruber <a href="https://www.oeaw.ac.at/inz/personen/gruber-doris/"><i class="fas fa-info-circle"></i></a><br>
-Austrian Academy of Sciences - INZ<br>
+Austrian Academy of Sciences, INZ<br>
 [doris.gruber(at)oeaw.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;epsjt/hsvcfsApfbx/bd/bu');)
 
 Mag. Martin Krickl <a href="https://www.onb.ac.at"><i class="fas fa-info-circle"></i></a><br>
@@ -25,7 +25,7 @@ Austrian National Library<br>
 [martin.krickl(at)onb.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;nbsujo/lsjdlmApoc/bd/bu');)
 
 Lijun Lyu, M.Sc. <a href="https://www.l3s.de/en/user/lyu"><i class="fas fa-info-circle"></i></a><br>
-Leibniz University Hannover/L3S<br>
+Leibniz University Hannover, L3S<br>
 [lyu(at)l3s.de](javascript:linkTo_UnCryptMailto('nbjmup;mzvAm4t/bu');)
 
 Jan Rörden, MA <a href="https://www.ait.ac.at/en/"><i class="fas fa-info-circle"></i></a><br>
@@ -48,7 +48,7 @@ Austrian Academy of Sciences, INZ<br>
 
 MMMag. Dr. Elisabeth Lobenwein <a href="https://www.aau.at/geschichte/team/lobenwein-elisabeth/"><i class="fas fa-info-circle"></i></a><br>
 Alpen-Adria-University Klagenfurt<br>
-[Elisabeth.Lobenwein(at)aau.at](javascript:linkTo_UnCryptMailto('nbjmup;Fmjtbcfui/MpcfoxfjoAbbv/bu');)
+[elisabeth.lobenwein(at)aau.at](javascript:linkTo_UnCryptMailto('nbjmup;Fmjtbcfui/MpcfoxfjoAbbv/bu');)
 
 Mag. DI Georg Petz <a href="https://www.onb.ac.at/"><i class="fas fa-info-circle"></i></a><br>
 Austrian National Library<br>
@@ -61,7 +61,7 @@ Austrian Institute of Technology<br>
 ## Research partners in Germany
 
 Dr. Besnik Fetahu <a href="https://www.l3s.de/en/users/fetahu"><i class="fas fa-info-circle"></i></a><br>
-Leibniz University Hannover/L3S<br>
+Leibniz University Hannover, L3S<br>
 [fetahu(at)l3s.de](javascript:linkTo_UnCryptMailto('nbjmup;gfubivAm4t/ef');)
 
 Prof. Dr. techn. Dipl.-Ing. Wolfgang Nejdl <a href="https://www2.kbs.uni-hannover.de/nejdl.html"><i class="fas fa-info-circle"></i></a><br>
