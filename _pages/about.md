@@ -4,6 +4,7 @@ title: About Travelogues
 layout: single
 toc: false
 toc-label: About Travelogues
+share: true
 ---
 
 **Travelogues:** Perceptions of the Other and the Orient in Modern Times. A Mixed-method Approach for the Analysis of Large-scale Travel Account Series.
