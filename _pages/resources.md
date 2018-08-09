@@ -12,4 +12,4 @@ Code that we want to publish will be available [on GitHub](https://github.com/Tr
 
 ## Publications
 
-Upcoming publications, workshops etc. will be published here, as soon as they are available.
+Upcoming publications, workshops etc. will be published here as soon as they are available.
