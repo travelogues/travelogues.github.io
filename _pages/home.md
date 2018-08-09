@@ -11,7 +11,7 @@ excerpt: "Travelogues: Perceptions of the Other and the Orient in Modern Times. 
 feature_row:
   - title: "Travelogues at NKOS 2018"
     excerpt: "The Travelogues project will be presented at the NKOS 2018 workshop on 13th September, in Porto, Portugal!"
-    url: /blog/20180726/nkos2018_announcement.html
+    url: /blog/20180727/nkos2018_announcement.html
     btn_label: Read More
   - # image_path:
     alt: "<placeholder-group-photo>"
