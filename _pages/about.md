@@ -2,7 +2,7 @@
 permalink: /about/
 # title: "Travelogues: Perceptions of the Other and the Orient in Modern Times. A Mixed-method Approach for the Analysis of Large-scale Travel Account Series."
 layout: single
-toc: true
+toc: false
 toc_label: About Travelogues
 share: true
 ---
