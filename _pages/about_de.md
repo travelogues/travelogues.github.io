@@ -7,6 +7,8 @@ toc_label: Travelogues
 share: true
 ---
 
+<i class="fas fa-language"></i><span style="font-size: 14pt;"> [English](/about/) [Deutsch](/about_de)</span>
+
 **Travelogues: Fremdwahrnehmungen in Reiseberichten 1500–1876 – Eine computergestützte Analyse**
 
 ## Über das Projekt

@@ -7,6 +7,8 @@ toc_label: About Travelogues
 share: true
 ---
 
+<i class="fas fa-language"></i><span style="font-size: 14pt;"> [English](/about/) [Deutsch](/about_de)</span>
+
 **Travelogues: Perceptions of the Other and the Orient in Modern Times. A Mixed-method Approach for the Analysis of Large-scale Travel Account Series.**
 
 ## About the Project
