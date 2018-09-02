@@ -1,17 +1,70 @@
 ---
 permalink: /about/
-title: About Travelogues
+# title: "Travelogues: Perceptions of the Other and the Orient in Modern Times. A Mixed-method Approach for the Analysis of Large-scale Travel Account Series."
 layout: single
-toc: false
-toc-label: About Travelogues
+toc: true
+toc_label: About Travelogues
 share: true
 ---
 
-**Travelogues:** Perceptions of the Other and the Orient in Modern Times. A Mixed-method Approach for the Analysis of Large-scale Travel Account Series.
+**Travelogues: Perceptions of the Other and the Orient in Modern Times. A Mixed-method Approach for the Analysis of Large-scale Travel Account Series.**
 
-## The project
+## About the Project
 
-This interdisciplinary international (DACH FWF-DFG) digital humanities project aims at gaining insight into the perception of the Other (focusing on the Orient) by analyzing an extensive collection of German language travelogues covering the period from 1500 until 1875. It will bring together a team of researchers from history, computer science, as well as library and information science from Austria and Germany. They will jointly develop a novel mixed qualitative and quantitative method for the serial analysis of large-scale text corpora and apply that method on a comprehensive corpus of travelogues originally published in the German language (ca. 3,000&mdash;3,500 books) and drawn from the Austrian Books Online (ABO) project (ca. 600,000 books) of the Austrian National Library.
+This interdisciplinary and international project focuses on German language travelogues in the collections of the 
+Austrian National Library, covering the period from 1500 to 1876. In order to analyze perceptions of “the other” and 
+“the orient” in a large-scale text corpus, algorithms for the semi-automatized search for, and evaluation of, digitally 
+available texts are being created. Several institutions partake in the project: the [Institute for Modern and Contemporary
+Historical Research at the Austrian Academy of Sciences](https://www.oeaw.ac.at/inz/), the [Austrian Institute of 
+Technology](https://www.ait.ac.at/), the [Austrian National Library](https://www.onb.ac.at/) and the [research center 
+L3S at the University of Hannover](https://www.l3s.de/).
 
-Travelogues are a highly important historical source, as they give deep insights into the historic dimension of the perception of the Other. Every one of us is constantly confronted with otherness and intercultural encounters due to processes such as global mass tourism, the internationalization of consumer culture, transnational migration, refugee flows, and globalization. Consequently, we must negotiate a complex interplay between alterity/identity and difference/similarity. Dealing with the Other and the conflicts that may arise when confronted with cultural difference is one of the biggest challenges of our time. By identifying, analyzing, and deconstructing and hence critically engaging with the historic dimension of otherness within travelogues, it is possible to raise more awareness for perceptions of the Other, and generate historic contextual knowledge and orientation for the present and future.
+Travelogues offer a wide range of information on perceptions of otherness related to foreign regions, cultures, and 
+religions. Travelogues are strongly influenced by the people involved in their production and their self-representations; 
+this influence in turn offers insights into how origin cultures handled “otherness”. The main challenges encountered 
+while performing the analysis have been the significant number of available texts and heterogeneity of the type of 
+source. The number of people involved in the production of travelogues varied, as did their socio-cultural background, 
+intentions, aims, motives, and the intended audience. As the project covers almost four centuries, the diachronic 
+contextualization is methodologically demanding. Further obstacles to be surmounted are grammatical and semiotic changes, 
+the variable quality of digitization and optical character recognition (OCR).
 
+The project faces these challenges due to an innovative methodology that is being used for the quantitative and 
+qualitative analysis of digitized texts: Researchers and scientists from the fields of history and computer science, 
+as well as library and information science are jointly developing algorithms for the semi-automatized detection and 
+evaluation of the perceptions of the other in a large-scale text corpus. To handle the data, state-of-the-art machine 
+learning, text-mining and adaptive topic-modeling techniques are being applied, and a novel, neural network-based 
+expression-detection approach is being developed. In this way, German language travelogues are being systematically 
+collected, as well as quantitatively and qualitatively analyzed for the first time. Moreover, the developed tools will 
+be easily adaptable to other languages and concepts, thus providing the basis for further research.
+
+The historical focus is on perceptions of “the other” and “the orient”. The project identifies different types of 
+perceptions, analyzes if and how they changed during the selected time period, and considers the influence of the 
+geographic or socio-cultural background of the people involved in the production of travelogues. Such analyses provide 
+a historical context for current challenges: In particular, the findings on historical strategies for dealing with 
+otherness may be applied to today’s challenges connected with worldwide phenomena such as mass tourism, the 
+internationalization of consumer cultures, transnational migrations and globalization.
+
+
+## Project Goals
+    
+1. **Semi-automatized creation of a text corpus.** Identification of characteristic elements of travelogues and mapping 
+of possibilities of their automatized collection, based on the digitized collections of the Austrian National Library 
+(ca. 600,000 books).
+
+2. **Collection of meta-data.** Creation of a data base with the identified travelogues, including further information,
+such as names and places of the origins of the travelers or intertextual relations between the publications 
+(traditions of copying texts inherent references, etc.).
+
+3. **Analysis of the topics, “otherness” and “orient” within the travelogues.** The linguistic and semantic changes of 
+these terms, as well as connected associations will be quantitatively and qualitatively examined based on the 
+automatized recognition of text passages.
+
+## Funding
+
+Austrian Science Fund (Fonds zur Förderung der wissenschaftlichen Forschung, FWF): project number I 3795-G28.
+
+German Research Foundation (Deutsche Forschungsgemeinschaft, DFG): project number 398697847.
+
+## Project term
+
+2018–2021
