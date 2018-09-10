@@ -49,7 +49,7 @@ historisches Orientierungswissen für Gegenwart und Zukunft, da historische Dime
 werden: Die Erkenntnisse, die aus der Identifikation und Kontextualisierung von Strategien zum Umgang mit Fremden in der 
 Vergangenheit gewonnen werden, können angewandt werden, um Herausforderungen von heute zu bewältigen, die mit Prozessen 
 wie dem weltumspannenden Massentourismus, der Internationalisierung von Konsumkulturen, transnationalen 
-Migrationsbewegungen und der Globalisierung stehen.
+Migrationsbewegungen und der Globalisierung in Zusammenhang stehen.
 
 ## Projektziele:
 
