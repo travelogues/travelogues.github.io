@@ -12,4 +12,6 @@ Code that we want to publish will be available [on GitHub](https://github.com/Tr
 
 ## Publications
 
-Upcoming publications, workshops etc. will be published here as soon as they are available.
+Traveling through Space and Time, or: Making Historical Travelogues Accessible. 
+Jan Rörden, Bernhard Haslhofer, Rainer Simon, Sven Schlarb. NKOS 2018 Workshop, available in the [proceedings](http://ceur-ws.org/Vol-2200/).
+
