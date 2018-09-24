@@ -3,10 +3,9 @@ permalink: /
 title: "Welcome to the Travelogues project!"
 layout: splash
 header:
-    overlay_image: /images/banner_scaled.png
+    overlay_image: /images/banner_books_scaled.png
     cta_label: "More info"
     cta_url: /about
-# Photo by Darran Shen on Unsplash: https://unsplash.com/photos/aOiUF_KOeEc
 excerpt: "Travelogues: Perceptions of the Other 1500-1876<br> – A Computerized Analysis"
 feature_row:
   - title: "NKOS 2018 recap"
