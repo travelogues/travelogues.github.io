@@ -7,9 +7,35 @@
 /* change link colour to Travelogues colour scheme */
 $link-color: #4b6568;
 
+/* new font */
 $sans-serif: 'Abel', sans-serif;
-
 $global-font-family: $sans-serif;
+
+/* background colour for masthead */
+div.masthead {
+    background-color: #4b6568;
+    border-bottom-width: 1px;
+}
+.masthead__inner-wrap nav {
+    background-color: #4b6568;
+}
+
+/* text colour for masthead */
+nav.greedy-nav a {
+	color: white;
+}
+nav.greedy-nav a:hover {
+	color: white;
+}
+
+/* replace simple title with our logo */
+nav.greedy-nav a.site-title {
+    text-indent: -9999px;
+    background: url("/images/logos/travelogues_w.png") no-repeat;
+    background-size: contain;
+    width: 150px;
+    height: auto;
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
