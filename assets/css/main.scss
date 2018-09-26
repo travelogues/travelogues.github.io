@@ -37,5 +37,19 @@ nav.greedy-nav a.site-title {
     height: auto;
 }
 
+/* landing page readability */
+.page__title {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.page__lead {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+a.btn.btn--light-outline.btn--large {
+	background-color: rgba(0, 0, 0, 0.75);
+}
+
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
