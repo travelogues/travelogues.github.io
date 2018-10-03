@@ -3,12 +3,7 @@
 {% endif %}
 
 <div style="display:flex; justify-content:space-between">
-    <div style="width:18%; text-align:center">
-        <a href="https://www.uni-salzburg.at">
-            <img src="/images/logos/salzburg_transparent.png" alt="Logo, Universität Salzburg">
-        </a>
-    </div>
-    <div style="width:18%; text-align:center">
+    <div style="text-align:center">
         <a href="https://www.oeaw.ac.at/inz/">
             <img src="/images/logos/oeaw_logo.png" alt="Logo, OEAW">
         </a>
@@ -29,6 +24,11 @@
         </a>
     </div>
     <div style="width:18%; text-align:center">
+        <a href="https://www.uni-salzburg.at">
+            <img src="/images/logos/salzburg_transparent.png" alt="Logo, Universität Salzburg">
+        </a>
+    </div>
+    <div style="width:22%; text-align:center">
         <a href="https://www.aau.at/">
             <img src="/images/logos/aau_logo.png" alt="Logo, AAU">
         </a>
@@ -38,16 +38,16 @@
 <hr/>
 
 <div style="display:flex; justify-content:space-between">
-    <div style="font-size: small;">
-        Travelogues is funded through grant <a href="http://pf.fwf.ac.at/de/wissenschaft-konkret/project-finder?search%5Bwhat%5D=Fremdwahrnehmungen+in+Reiseberichten+1500-1875+-+eine+computergest%C3%BCtzte+Analyse+&search%5Bpromotion_category_id%5D%5B%5D=&search%5Bcall%5D=&search%5Bproject_number%5D=&search%5Bdecision_board_ids%5D=&search%5Bproject_title%5D=&search%5Blead_firstname%5D=&search%5Blead_lastname%5D=&search%5Bresearch_place_kind%5D%5B%5D=&search%5Binstitute_name%5D=&search%5Bstart_date%5D=&search%5Bend_date%5D=&search%5Bgrant_years%5D%5B%5D=&search%5Bstatus_id%5D=&search%5Bscience_discipline_id%5D=&search%5Bper_page%5D=10#search-results">"I 3795 Internationale Projekte"</a> of the FWF (Austria),
-        and grant <a href="http://gepris.dfg.de/gepris/projekt/398697847">398697847</a> of the DFG (Germany).
-    </div>
     <a href="http://pf.fwf.ac.at/de/wissenschaft-konkret/project-finder?search%5Bwhat%5D=Fremdwahrnehmungen+in+Reiseberichten+1500-1875+-+eine+computergest%C3%BCtzte+Analyse+&search%5Bpromotion_category_id%5D%5B%5D=&search%5Bcall%5D=&search%5Bproject_number%5D=&search%5Bdecision_board_ids%5D=&search%5Bproject_title%5D=&search%5Blead_firstname%5D=&search%5Blead_lastname%5D=&search%5Bresearch_place_kind%5D%5B%5D=&search%5Binstitute_name%5D=&search%5Bstart_date%5D=&search%5Bend_date%5D=&search%5Bgrant_years%5D%5B%5D=&search%5Bstatus_id%5D=&search%5Bscience_discipline_id%5D=&search%5Bper_page%5D=10#search-results" style="margin:0 1% 0 1%">
         <img src="/images/logos/fwf-logo.png" alt="Logo, FWF">
     </a>
     <a href="http://gepris.dfg.de/gepris/projekt/398697847" style="margin:0 1% 0 1%">
         <img src="/images/logos/dfg_logo.png" alt="Logo, DFG">
     </a>
+    <div style="font-size: small;">
+        Travelogues is funded through grant <a href="http://pf.fwf.ac.at/de/wissenschaft-konkret/project-finder?search%5Bwhat%5D=Fremdwahrnehmungen+in+Reiseberichten+1500-1875+-+eine+computergest%C3%BCtzte+Analyse+&search%5Bpromotion_category_id%5D%5B%5D=&search%5Bcall%5D=&search%5Bproject_number%5D=&search%5Bdecision_board_ids%5D=&search%5Bproject_title%5D=&search%5Blead_firstname%5D=&search%5Blead_lastname%5D=&search%5Bresearch_place_kind%5D%5B%5D=&search%5Binstitute_name%5D=&search%5Bstart_date%5D=&search%5Bend_date%5D=&search%5Bgrant_years%5D%5B%5D=&search%5Bstatus_id%5D=&search%5Bscience_discipline_id%5D=&search%5Bper_page%5D=10#search-results">"I 3795 Internationale Projekte"</a> of the FWF (Austria),
+        and grant <a href="http://gepris.dfg.de/gepris/projekt/398697847">398697847</a> of the DFG (Germany).
+    </div>
 </div>
 
 <!--div class="page__footer-follow">
@@ -73,5 +73,7 @@
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div-->
+
+<hr/>
 
 <div class="page__footer-copyright" style="font-size: small;">&copy; {{ site.time | date: '%Y' }} The project. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
