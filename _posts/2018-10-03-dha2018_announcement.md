@@ -3,6 +3,8 @@ title: Travelogues at dha2018
 share: true
 ---
 
+<script language="JavaScript" src="/_includes/unCryptMail.js" type="text/javascript"></script>
+
 The Travelogues project will be presented at the dha2018 conference on Thursday, November 29th, in Salzburg, Austria!
 
 <!-- more -->

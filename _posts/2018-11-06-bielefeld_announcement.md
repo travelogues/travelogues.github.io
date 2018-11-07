@@ -3,6 +3,8 @@ title: Travelogues at Bielefeld University
 share: true
 ---
 
+<script language="JavaScript" src="/_includes/unCryptMail.js" type="text/javascript"></script>
+
 The Travelogues project will be presented at the conference “Traveling, Narrating Comparing. Travel Narratives of the 
 Americas from 18th to the 20th Century” at Bielefeld University!
 

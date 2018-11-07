@@ -3,6 +3,8 @@ title: Travelogues at NKOS 2018
 share: true
 ---
 
+<script language="JavaScript" src="/_includes/unCryptMail.js" type="text/javascript"></script>
+
 The Travelogues project will be presented at the NKOS 2018 workshop on 13th September, in Porto, Portugal!
 
 <!-- more -->
