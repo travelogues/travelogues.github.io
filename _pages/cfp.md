@@ -25,7 +25,7 @@ Analysis“
 
 **Deadline**: 07.01.2019
 
-**URL**: http://www.travelogues-project.info/cfp/
+**URL**: [http://www.travelogues-project.info/cfp/](http://www.travelogues-project.info/cfp/)
 
 The ‘Orient‘ was a popular travel destination during the (Early) Modern Period. People went there on pilgrimages, 
 diplomatic missions, and to trade, conduct research or educate themselves. Records of these experiences offer an 
