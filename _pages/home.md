@@ -7,6 +7,10 @@ header:
     cta_label: "More info"
     cta_url: /about
 excerpt: "Travelogues: Perceptions of the Other 1500-1876<br> – A Computerized Analysis"
+intro:
+  - excerpt: "We are very happy to announce a [**Call for Papers**](/cfp/) for the Workshop „On the Way into the Unknown? 
+  Comparative Perspectives on the 'Orient‘ in (Early) Modern Travelogues“ in Vienna on 28.–29.11.2019. We are looking 
+  forward to your proposals!"
 feature_row:
   - title: "Travelogues at Bielefeld University"
     excerpt: "The Travelogues project will be presented at the conference “Traveling, Narrating Comparing. Travel Narratives of the Americas from 18th to the 20th Century” at Bielefeld University!"
