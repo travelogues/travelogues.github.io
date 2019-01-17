@@ -21,8 +21,8 @@ share: true
 
 **Datum**: 28.11.2019–29.11.2019
 
-**Bewerbungsschluss**: **Frist abgelaufen** - wir bedanken uns für das überwältigende Interesse an unserem Workshop, und 
-werden baldmöglichst mit Autoren in Kontakt treten.
+**Bewerbungsschluss**: **Frist abgelaufen** – wir bedanken uns für das große Interesse an unserem Workshop und melden 
+uns bei den AutorInnen bis Ende Februar.
 
 **URL**: [http://www.travelogues-project.info/cfp_de/](http://www.travelogues-project.info/cfp_de/)
 
