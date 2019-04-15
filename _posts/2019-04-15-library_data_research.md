@@ -1,5 +1,5 @@
 ---
-title: Library Data for research projects: from the Travelogues project point of view
+title: "Library Data for research projects: from the Travelogues project point of view"
 share: true
 ---
 
@@ -44,8 +44,8 @@ from the perspective of a librarian will be presented in upcoming publications.
 in the holdings of the Austrian National Library, administrative metadata concerning their digitalization and 
 OCR-analysis, images and – in a further step – annotations by researchers within the project.
 
+<small>
 2 - For the concept of "embedded librarianship" in research projects see Jake Carlson, Ruth Kneale: Embedded 
 librarianship in the research context: Navigating new waters. In: College and Research Libraries News 72.3 (2011), 167–170. 
 Clare McCluskey: Being an embedded research librarian. In: Journal of Information Literacy 72.3 (2013), 4–14. The 
 concept is generally used for more 'outgoing' educational services.
-</small> 
