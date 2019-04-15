@@ -12,6 +12,11 @@ intro:
   Comparative Perspectives on the 'Orient‘ in (Early) Modern Travelogues“ in Vienna on 28.–29.11.2019. The submission is now
   closed - we thank everyone for the overwhelming interest! You can expect further information soon."
 feature_row:
+  - title: "Library Data for research projects: from the Travelogues project point of view"
+    excerpt: "Challenges to be faced. By Martin Krickl, Data librarian at the Austrian National Library."
+    url: /blog/20190415/library_data_research.html
+    btn_label: Read More
+    btn_class: btn--inverse
   - title: "Travelogues at Bielefeld University"
     excerpt: "The Travelogues project will be presented at the conference “Traveling, Narrating Comparing. Travel Narratives of the Americas from 18th to the 20th Century” at Bielefeld University!"
     url: /blog/20181106/bielefeld_announcement.html
@@ -22,11 +27,11 @@ feature_row:
     url: /blog/20181003/dha2018_announcement.html
     btn_label: Read More
     btn_class: btn--inverse
-  - title: "NKOS 2018 recap"
-    excerpt: "NKOS 2018: short recap of a successful and interesting workshop."
-    url: /blog/20180914/nkos2018_recap.html
-    btn_label: Read More
-    btn_class: btn--inverse
+#  - title: "NKOS 2018 recap"
+#    excerpt: "NKOS 2018: short recap of a successful and interesting workshop."
+#    url: /blog/20180914/nkos2018_recap.html
+#    btn_label: Read More
+#    btn_class: btn--inverse
 #  - title: "Travelogues at NKOS 2018"
 #    excerpt: "The Travelogues project will be presented at the NKOS 2018 workshop on 13th September, in Porto, Portugal!"
 #    url: /blog/20180727/nkos2018_announcement.html
