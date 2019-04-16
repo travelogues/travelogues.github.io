@@ -23,8 +23,7 @@ Analysis“
 
 **Date**: 28.11.2019–29.11.2019
 
-**Deadline**: **Submission closed** – we thank you for the overwhelming interest, and will get back to the authors until 
-the end of February.
+**Deadline**: **Submission closed** – we thank you for the overwhelming interest.
 
 **URL**: [http://www.travelogues-project.info/cfp/](http://www.travelogues-project.info/cfp/)
 
