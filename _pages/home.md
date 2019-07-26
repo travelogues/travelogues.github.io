@@ -12,6 +12,11 @@ intro:
   Comparative Perspectives on the 'Orient‘ in (Early) Modern Travelogues“ in Vienna on 28.–29.11.2019. The submission is now
   closed - we thank everyone for the overwhelming interest! You can expect further information soon."
 feature_row:
+  - title: "Japan and the Ottoman Empire"
+    excerpt: "We are proud to give you deeper insights to this workshop that took place earlier this year in Kyoto."
+    url: /kyoto
+    btn_label: Read More
+    btn_class: btn--inverse
   - title: "Travelogues in Kyoto!"
     excerpt: "We are very happy to announce presentations of our Travelogues project at the University of Kyoto!"
     url: /blog/20190508/travelogues_kyoto.html
@@ -22,11 +27,11 @@ feature_row:
     url: /blog/20190415/library_data_research.html
     btn_label: Read More
     btn_class: btn--inverse
-  - title: "Travelogues at Bielefeld University"
-    excerpt: "The Travelogues project will be presented at the conference “Traveling, Narrating Comparing. Travel Narratives of the Americas from 18th to the 20th Century” at Bielefeld University!"
-    url: /blog/20181106/bielefeld_announcement.html
-    btn_label: Read More
-    btn_class: btn--inverse
+#  - title: "Travelogues at Bielefeld University"
+#    excerpt: "The Travelogues project will be presented at the conference “Traveling, Narrating Comparing. Travel Narratives of the Americas from 18th to the 20th Century” at Bielefeld University!"
+#    url: /blog/20181106/bielefeld_announcement.html
+#    btn_label: Read More
+#    btn_class: btn--inverse
 #  - title: "Travelogues at dha2018"
 #    excerpt: "The Travelogues project will be presented at the dha2018 conference on Thursday, November 29th, in Salzburg, Austria!"
 #    url: /blog/20181003/dha2018_announcement.html

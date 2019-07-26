@@ -131,6 +131,7 @@ include:
   - _pages
   - _data
   - _includes
+  - _files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
