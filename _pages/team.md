@@ -48,7 +48,7 @@ Leibniz University Hannover, L3S<br>
 
 <div markdown="1" style="display:table-row">
 <img src="/images/team/roerden.jpg" alt="Portrait Jan Rörden" style="width:30%; float:left; margin-right: 2%;">
-Jan Rörden, MA <a href="https://www.ait.ac.at/en/"><i class="fas fa-info-circle"></i></a><br>
+Jan Rörden<a href="https://www.ait.ac.at/en/"><i class="fas fa-info-circle"></i></a><br>
 Austrian Institute of Technology<br>
 [jan.roerden(at)ait.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;kbo/spfsefoAbju/bd/bu');)
 </div>

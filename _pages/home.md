@@ -8,9 +8,8 @@ header:
     cta_url: /about
 excerpt: "Travelogues: Perceptions of the Other 1500-1876<br> – A Computerized Analysis"
 intro:
-  - excerpt: "We are very happy to announce a [**Call for Papers**](/cfp/) for the Workshop „On the Way into the Unknown? 
-  Comparative Perspectives on the 'Orient‘ in (Early) Modern Travelogues“ in Vienna on 28.–29.11.2019. The submission is now
-  closed - we thank everyone for the overwhelming interest! You can expect further information soon."
+  - excerpt: "We are very happy to announce the [preliminary programme](/intotheunknown/) for the Conference **'On the Way into the Unknown?
+  Comparative Perspectives on the 'Orient' in (Early) Modern Travelogues'** in Vienna on 28.–30.11.2019."
 feature_row:
   - title: "Japan and the Ottoman Empire"
     excerpt: "We are proud to give you deeper insights to this workshop that took place earlier this year in Kyoto."
