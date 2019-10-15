@@ -18,16 +18,16 @@ share: true
 
 **Kontakt:**
 
-MMag. Dr. Doris Gruber</br>
-Institut für Neuzeit- und Zeitgeschichtsforschung</br>
-Österreichische Akademie der Wissenschaften</br>
-Hollandstraße 11–13, 1. Stcok, 1010 Wien, Österreich</br>
-T: +43 1 51581-7329</br>
+MMag. Dr. Doris Gruber<br/>
+Institut für Neuzeit- und Zeitgeschichtsforschung<br/>
+Österreichische Akademie der Wissenschaften<br/>
+Hollandstraße 11–13, 1. Stcok, 1010 Wien, Österreich<br/>
+T: +43 1 51581-7329<br/>
 [doris.gruber(at)oeaw.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;epsjt/hsvcfsApfbx/bd/bu');)
 
-Univ.-Prof. Mag. Dr. Arno Strohmeyer</br>
-Universität Salzburg</br>
-Rudolfskai 22, 5020 Salzburg, Österreich</br>
+Univ.-Prof. Mag. Dr. Arno Strohmeyer<br/>
+Universität Salzburg<br/>
+Rudolfskai 22, 5020 Salzburg, Österreich<br/>
 [arno.strohmeyer(at)oeaw.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;bsop/tuspinfzfsApfbx/bd/bu');)
 
 Die Konferenz ist der höchstaktuellen Thematik von ‚Fremdwahrnehmungen‘ gewidmet und fokussiert sich auf (früh-)neuzeitliche

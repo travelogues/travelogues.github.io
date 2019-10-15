@@ -18,16 +18,16 @@ share: true
 
 **Contact:**
 
-MMag. Dr. Doris Gruber</br>
-Institute for Modern and Contemporary Historical Research</br>
-Austrian Academy of Sciences</br>
-Hollandstraße 11–13, 1st floor, 1010 Vienna, Austria</br>
-T: +43 1 51581-7329</br>
+MMag. Dr. Doris Gruber<br/>
+Institute for Modern and Contemporary Historical Research<br/>
+Austrian Academy of Sciences<br/>
+Hollandstraße 11–13, 1st floor, 1010 Vienna, Austria<br/>
+T: +43 1 51581-7329<br/>
 [doris.gruber(at)oeaw.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;epsjt/hsvcfsApfbx/bd/bu');)
 
-Univ.-Prof. Mag. Dr. Arno Strohmeyer</br>
-University of Salzburg</br>
-Rudolfskai 22, 5020 Salzburg, Austria</br>
+Univ.-Prof. Mag. Dr. Arno Strohmeyer<br/>
+University of Salzburg<br/>
+Rudolfskai 22, 5020 Salzburg, Austria<br/>
 [arno.strohmeyer(at)oeaw.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;bsop/tuspinfzfsApfbx/bd/bu');)
 
 The conference reflects upon the highly topical question of perceptions of 'otherness' and focuses on (Early) Modern
