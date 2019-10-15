@@ -21,7 +21,7 @@ share: true
 MMag. Dr. Doris Gruber<br/>
 Institute for Modern and Contemporary Historical Research<br/>
 Austrian Academy of Sciences<br/>
-Hollandstraße 11–13, 1st floor, 1010 Vienna, Austria<br/>
+Hollandstraße 11–13, 1st floor, 1020 Vienna, Austria<br/>
 T: +43 1 51581-7329<br/>
 [doris.gruber(at)oeaw.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;epsjt/hsvcfsApfbx/bd/bu');)
 
