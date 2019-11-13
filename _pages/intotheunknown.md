@@ -53,6 +53,6 @@ the 19th centuries. The international and interdisciplinary conference will expl
 comparative analysis and pose the questions of how perceptions of otherness were shaped and what this tells us today
 about the solidification and change of powerrelationships, stereotypes and prejudices.
 
-<object data="../../_files/Programm-INZ-On-the-Way-Into-the-Unknown-V-07-10-2019.pdf" width="1000" height="1000" type='application/pdf'>
-    <p>Please click <a href="//www.travelogues-project.info/_files/Programm-INZ-On-the-Way-Into-the-Unknown-V-07-10-2019.pdf">here</a> if the PDF does not load.</p>
+<object data="../../_files/Programm-INZ-On-the-Way-Into-the-Unknown.pdf" width="1000" height="1000" type='application/pdf'>
+    <p>Please click <a href="//www.travelogues-project.info/_files/Programm-INZ-On-the-Way-Into-the-Unknown.pdf">here</a> if the PDF does not load.</p>
 </object>

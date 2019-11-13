@@ -55,6 +55,6 @@ des 16.–19. Jahrhunderts zu diskutieren. Die internationale und interdisziplin
 Grenzen vergleichender Analysen ausloten und die Fragen aufwerfen, wie Fremdwahrnehmungen geformt wurden und was dies
 generell über die Verfestigung und den Wandel von Machtverhältnissen, Stereotypen und Vorurteilen aussagt.
 
-<object data="../../_files/Programm-INZ-On-the-Way-Into-the-Unknown-V-07-10-2019.pdf" width="1000" height="1000" type='application/pdf'>
-    <p>Bitte <a href="//www.travelogues-project.info/_files/Programm-INZ-On-the-Way-Into-the-Unknown-V-07-10-2019.pdf">hier</a> klicken, wenn das PDF nicht geladen wird.</p>
+<object data="../../_files/Programm-INZ-On-the-Way-Into-the-Unknown.pdf" width="1000" height="1000" type='application/pdf'>
+    <p>Bitte <a href="//www.travelogues-project.info/_files/Programm-INZ-On-the-Way-Into-the-Unknown.pdf">hier</a> klicken, wenn das PDF nicht geladen wird.</p>
 </object>
