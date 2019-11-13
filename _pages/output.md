@@ -12,9 +12,6 @@ Code that we want to publish will be available [on GitHub](https://github.com/Tr
 
 ## Publications and Conference Presentations
 
-**Martin Krickl: Travelogues and Linked Data**, Posterpresentation at Spring 
-School Linked Open Data, Graz ZIM, April 24, 2019.
-
 **Doris Gruber, Elisabeth Lobenwein and Arno Strohmeyer: Travelogues – 
 Perceptions of the Other 1500–1876. A Computerized Analysis.** In: Thomas 
 Wallnig et al. (ed.): Achtzehntes Jahrhundert digital: zentraleuropäische 
@@ -39,6 +36,9 @@ Joint Seminar, Kyoto University, June 2, 2019.
 of Interculturality in Early Modern Times**, Japan and the Ottoman Empire 
 in the Eye of the European Beholder. A Comparison, International Joint 
 Seminar, Kyoto University, June 1, 2019.
+
+**Martin Krickl: Travelogues and Linked Data**, Posterpresentation at Spring 
+School Linked Open Data, Graz ZIM, April 24, 2019.
 
 **Doris Gruber: Friederike Riedesel and the Other. Semi-Automatized Text 
 Analysis in Practice**, Traveling, Narrating, Comparing. Travel Narratives 
