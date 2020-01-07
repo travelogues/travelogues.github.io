@@ -11,6 +11,11 @@ intro:
   - excerpt: "We are very happy to announce the [preliminary programme](/intotheunknown/) for the Conference **'On the Way into the Unknown?
   Comparative Perspectives on the 'Orient' in (Early) Modern Travelogues'** in Vienna on 28.–30.11.2019."
 feature_row:
+  - title: "Article in 'Wiener Zeitung'"
+    excerpt: "Our project lead Arno Strohmeyer contributed an article to the Jan 4 print edition of the 'Wiener Zeitung', one of the largest daily newspapers in Austria."
+    url: /wienerzeitung-jan-2020
+    btn_label: Read More
+    btn_class: btn--inverse
   - title: "Article in 'Die Presse'"
     excerpt: "Austrian newspaper 'Die Presse' has published a news article about the project in their Dec 21 print edition."
     url: /diepresse-dec-2019
@@ -21,11 +26,11 @@ feature_row:
     url: /kyoto
     btn_label: Read More
     btn_class: btn--inverse
-  - title: "Travelogues in Kyoto!"
-    excerpt: "We are very happy to announce presentations of our Travelogues project at the University of Kyoto!"
-    url: /blog/20190508/travelogues_kyoto.html
-    btn_label: Read More
-    btn_class: btn--inverse
+# - title: "Travelogues in Kyoto!"
+#   excerpt: "We are very happy to announce presentations of our Travelogues project at the University of Kyoto!"
+#   url: /blog/20190508/travelogues_kyoto.html
+#   btn_label: Read More
+#   btn_class: btn--inverse
 # - title: "Library Data for research projects: from the Travelogues project point of view"
 #   excerpt: "Challenges to be faced. By Martin Krickl, Data librarian at the Austrian National Library."
 #   url: /blog/20190415/library_data_research.html
