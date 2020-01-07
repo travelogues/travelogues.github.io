@@ -11,8 +11,13 @@ intro:
   - excerpt: "We are very happy to announce the [preliminary programme](/intotheunknown/) for the Conference **'On the Way into the Unknown?
   Comparative Perspectives on the 'Orient' in (Early) Modern Travelogues'** in Vienna on 28.–30.11.2019."
 feature_row:
+  - title: "Article in 'Die Presse'"
+    excerpt: "Austrian newspaper 'Die Presse' has published a news article about the project in their Dec 21 print edition."
+    url: /diepresse-dec-2019
+    btn_label: Read More
+    btn_class: btn--inverse
   - title: "Japan and the Ottoman Empire"
-    excerpt: "We are proud to give you deeper insights to this workshop that took place earlier this year in Kyoto."
+    excerpt: "Find out more about this workshop that took place earlier this year in Kyoto."
     url: /kyoto
     btn_label: Read More
     btn_class: btn--inverse
@@ -21,11 +26,11 @@ feature_row:
     url: /blog/20190508/travelogues_kyoto.html
     btn_label: Read More
     btn_class: btn--inverse
-  - title: "Library Data for research projects: from the Travelogues project point of view"
-    excerpt: "Challenges to be faced. By Martin Krickl, Data librarian at the Austrian National Library."
-    url: /blog/20190415/library_data_research.html
-    btn_label: Read More
-    btn_class: btn--inverse
+# - title: "Library Data for research projects: from the Travelogues project point of view"
+#   excerpt: "Challenges to be faced. By Martin Krickl, Data librarian at the Austrian National Library."
+#   url: /blog/20190415/library_data_research.html
+#   btn_label: Read More
+#   btn_class: btn--inverse
 #  - title: "Travelogues at Bielefeld University"
 #    excerpt: "The Travelogues project will be presented at the conference “Traveling, Narrating Comparing. Travel Narratives of the Americas from 18th to the 20th Century” at Bielefeld University!"
 #    url: /blog/20181106/bielefeld_announcement.html
