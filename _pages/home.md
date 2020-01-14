@@ -11,6 +11,11 @@ intro:
   - excerpt: "We are very happy to announce the [preliminary programme](/intotheunknown/) for the Conference **'On the Way into the Unknown?
   Comparative Perspectives on the 'Orient' in (Early) Modern Travelogues'** in Vienna on 28.–30.11.2019."
 feature_row:
+  - title: "Initial Release of the Travelogues Corpus"
+    excerpt: "We are happy to announce the release of the most extensive open data collection of early modern German travelogues ever created"
+    url: /corpus-release-v1
+    btn_label: Read More
+    btn_class: btn--inverse
   - title: "Article in 'Wiener Zeitung'"
     excerpt: "Our project lead Arno Strohmeyer contributed an article to the Jan 4 print edition of the 'Wiener Zeitung', one of the largest daily newspapers in Austria."
     url: /wienerzeitung-jan-2020
@@ -21,11 +26,11 @@ feature_row:
     url: /diepresse-dec-2019
     btn_label: Read More
     btn_class: btn--inverse
-  - title: "Japan and the Ottoman Empire"
-    excerpt: "Find out more about this workshop that took place earlier this year in Kyoto."
-    url: /kyoto
-    btn_label: Read More
-    btn_class: btn--inverse
+# - title: "Japan and the Ottoman Empire"
+#   excerpt: "Find out more about this workshop that took place earlier this year in Kyoto."
+#   url: /kyoto
+#   btn_label: Read More
+#   btn_class: btn--inverse
 # - title: "Travelogues in Kyoto!"
 #   excerpt: "We are very happy to announce presentations of our Travelogues project at the University of Kyoto!"
 #   url: /blog/20190508/travelogues_kyoto.html
