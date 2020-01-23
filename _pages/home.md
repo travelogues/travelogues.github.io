@@ -3,7 +3,7 @@ permalink: /
 title: "Welcome to the Travelogues project!"
 layout: splash
 header:
-    overlay_image: /images/banner_books_scaled.png
+    overlay_image: /images/banner_books_scaled.jpg
     cta_label: "More info"
     cta_url: /about
 excerpt: "Travelogues: Perceptions of the Other 1500-1876<br> – A Computerized Analysis"
