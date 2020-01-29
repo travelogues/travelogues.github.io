@@ -16,8 +16,8 @@ share: true
 This interdisciplinary and international project focuses on German language travelogues in the collections of the 
 Austrian National Library, covering the period from 1500 to 1876. In order to analyze perceptions of “the other” and 
 “the orient” in a large-scale text corpus, algorithms for the semi-automatized search for, and evaluation of, digitally 
-available texts are being created. Several institutions partake in the project: the [Institute for Modern and Contemporary
-Historical Research at the Austrian Academy of Sciences](https://www.oeaw.ac.at/inz/), the [Austrian Institute of 
+available texts are being created. Several institutions partake in the project: the [Institute for Habsburg and Balkan Studies
+at the Austrian Academy of Sciences](https://www.oeaw.ac.at/ihb/), the [Austrian Institute of 
 Technology](https://www.ait.ac.at/), the [Austrian National Library](https://www.onb.ac.at/) and the [research center 
 L3S at the University of Hannover](https://www.l3s.de/).
 

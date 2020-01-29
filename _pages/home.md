@@ -77,8 +77,9 @@ feature_row:
 #    url: /blog/20180417/project_start.html
 #    btn_label: Read More
 #    btn_class: btn--inverse
----
 
-{% include feature_row id="intro" type="center" %}
+# {% include feature_row id="intro" type="center" %}
+
+---
 
 {% include feature_row %}

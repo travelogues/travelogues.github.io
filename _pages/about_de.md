@@ -16,9 +16,8 @@ share: true
 Das interdisziplinäre und internationale Projekt analysiert deutschsprachige Reiseberichte der Zeit 1500–1876 aus dem 
 Bestand der Österreichischen Nationalbibliothek. Es werden Algorithmen zur semi-automatisierten Auffindung und Auswertung 
 großer Mengen, digital verfügbarer Druckschriften entwickelt, um darin Wahrnehmungen von „Fremdheit“ und vom „Orient“ 
-systematisch zu untersuchen. Am Projekt beteiligt sind das [Institut für Neuzeit- und Zeitgeschichtsforschung an der 
-Österreichischen Akademie der Wissenschaften](https://www.oeaw.ac.at/inz/), das [Austrian Institute of Technology](https://www.ait.ac.at/), 
-die [Österreichische Nationalbibliothek](https://www.onb.ac.at/) und das [Forschungszentrum L3S 
+systematisch zu untersuchen. Am Projekt beteiligt sind das [Institut für die Erforschung der Habsburgmonarchie und des Balkanraumes
+an der Österreichischen Akademie der Wissenschaften](https://www.oeaw.ac.at/ihb/), das [Austrian Institute of Technology](https://www.ait.ac.at/), die [Österreichische Nationalbibliothek](https://www.onb.ac.at/) und das [Forschungszentrum L3S 
 an der Universität Hannover](https://www.l3s.de/).
 
 Reiseberichte enthalten Informationen über die Wahrnehmungen von Fremdheit, wie verschiedenste Regionen, Kulturen und 
