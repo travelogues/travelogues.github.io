@@ -11,21 +11,32 @@ intro:
   - excerpt: "We are very happy to announce the [preliminary programme](/intotheunknown/) for the Conference **'On the Way into the Unknown?
   Comparative Perspectives on the 'Orient' in (Early) Modern Travelogues'** in Vienna on 28.–30.11.2019."
 feature_row:
+  - title: "Travelogues at the iConference"
+    excerpt: "We will be presenting our paper 'Identifying Historical Travelogues in Large Text Corpora Using Machine Learning' a
+    the iConference in Borås, Sweden"
+    url: /travelogues-at-the-iconference
+    btn_label: Read More
+    btn_class: btn--inverse
   - title: "Initial Release of the Travelogues Corpus"
     excerpt: "We are happy to announce the release of the most extensive open data collection of early modern German travelogues ever created"
     url: /corpus-release-v1
     btn_label: Read More
     btn_class: btn--inverse
-  - title: "Article in 'Wiener Zeitung'"
-    excerpt: "Our project lead Arno Strohmeyer contributed an article to the Jan 4 print edition of the 'Wiener Zeitung', one of the largest daily newspapers in Austria."
-    url: /wienerzeitung-jan-2020
+  - title: "On the Way into the Unknown"
+    excerpt: "We thank all speakers and participants of our conference on 28.–30.11.2019 in Vienna"
+    url: /on-the-way-into-the-unknown
     btn_label: Read More
-    btn_class: btn--inverse
-  - title: "Article in 'Die Presse'"
-    excerpt: "Austrian newspaper 'Die Presse' has published a news article about the project in their Dec 21 print edition."
-    url: /diepresse-dec-2019
-    btn_label: Read More
-    btn_class: btn--inverse
+    btn_class: btn--inverse 
+# - title: "Article in 'Wiener Zeitung'"
+#   excerpt: "Our project lead Arno Strohmeyer contributed an article to the Jan 4 print edition of the 'Wiener Zeitung', one of the largest daily newspapers in Austria."
+#   url: /wienerzeitung-jan-2020
+#   btn_label: Read More
+#   btn_class: btn--inverse
+# - title: "Article in 'Die Presse'"
+#   excerpt: "Austrian newspaper 'Die Presse' has published a news article about the project in their Dec 21 print edition."
+#   url: /diepresse-dec-2019
+#   btn_label: Read More
+#   btn_class: btn--inverse
 # - title: "Japan and the Ottoman Empire"
 #   excerpt: "Find out more about this workshop that took place earlier this year in Kyoto."
 #   url: /kyoto
