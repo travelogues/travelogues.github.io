@@ -8,9 +8,22 @@ toc_label: Project output
 
 ## Code
 
-Code that we want to publish will be available [on GitHub](https://github.com/Travelogues).
+Code that we want to publish will be available [on GitHub](https://github.com/travelogues).
+
+## Conferences
+
+**On the Way into the Unknown? Comparative Perspectives on the ‘Orient’ in (Early) 
+Modern Travelogues**, Institute for Habsburg and Balkan Studies (formerly Institute 
+for Modern and Contemprary Historical Research), November 28-30, 2019, co-hosted 
+by the Travelogues-Project. More details can be found [here](/intotheunknown).
 
 ## Publications and Conference Presentations
+
+**Jan Rörden, Doris Gruber, Martin Krickl, Bernhard Haslhofer: Identifying 
+Historical Travelogues in Large Text Corpora Using Machine Learning**, 
+[iConference 2020](https://ischools.org/iConference-2020-Preview), March 23-26, 
+Borås, Sweden (accepted for presentation and named finalist for the 
+[Lee Dirks Award for Best Full Research Paper](https://ischools.org/page-18328)).
 
 **Doris Gruber, Elisabeth Lobenwein and Arno Strohmeyer: Travelogues – 
 Perceptions of the Other 1500–1876. A Computerized Analysis.** In: Thomas 
