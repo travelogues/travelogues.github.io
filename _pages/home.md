@@ -19,7 +19,7 @@ feature_row:
     btn_class: btn--inverse
   - title: "Initial Release of the Travelogues Corpus"
     excerpt: "We are happy to announce the release of the most extensive open data collection of early modern German travelogues ever created"
-    url: /corpus-release-v1
+    url: http://github.com/travelogues/travelogues-corpus
     btn_label: Read More
     btn_class: btn--inverse
   - title: "On the Way into the Unknown"
