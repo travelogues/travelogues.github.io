@@ -12,7 +12,7 @@ excerpt: "Travelogues: Perceptions of the Other 1500-1876<br> – A Computerized
 #   Comparative Perspectives on the 'Orient' in (Early) Modern Travelogues'** in Vienna on 28.–30.11.2019."
 feature_row:
   - title: "Travelogues at the iConference"
-    excerpt: "We will be presenting our paper 'Identifying Historical Travelogues in Large Text Corpora Using Machine Learning' a
+    excerpt: "We will be presenting our paper 'Identifying Historical Travelogues in Large Text Corpora Using Machine Learning' at
     the iConference in Borås, Sweden"
     url: /travelogues-at-the-iconference
     btn_label: Read More
