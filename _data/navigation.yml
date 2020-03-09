@@ -7,7 +7,7 @@ main:
       url: /team/
     - title: Blog
       url: /_pages/blog/
-    - title: Output
+    - title: Results
       url: /output/
     - title: Contact
       url: /contact/
