@@ -39,7 +39,7 @@ Thumbs.db
 # Jekyll stuff #
 ################
 _site/
-.jekyll_metadata
+.jekyll-metadata
 
 # Ruby stuff #
 ##############

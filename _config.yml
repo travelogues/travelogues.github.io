@@ -13,7 +13,8 @@ locale                   : "en-US"
 title                    : "Travelogues"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "Website for the Travelogues project. On the intersection of Digital Humanities and Computer Science,
+we use Machine Learning to analyze a corpus of 500,000 books. Our goal is to learn how travellers described otherness."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : Travelogues/travelogues.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -130,6 +131,7 @@ include:
   - _pages
   - _data
   - _includes
+  - _files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -204,6 +206,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
