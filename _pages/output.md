@@ -19,6 +19,11 @@ by the Travelogues-Project. More details can be found [here](/intotheunknown).
 
 ## Publications and Conference Presentations
 
+**Lisa Brunner, Martin Krickl, Christoph Würflinger: Conference Report: On the Way 
+into the Unknown? Comparative Perspectives on the "Orient" in (Early) Modern 
+Travelogues**, 28.11.2019 – 30.11.2019 Vienna, in: H-Soz-Kult, 07.03.2020, 
+<www.hsozkult.de/conferencereport/id/tagungsberichte-8682>.
+
 **Jan Rörden, Doris Gruber, Martin Krickl, Bernhard Haslhofer: Identifying 
 Historical Travelogues in Large Text Corpora Using Machine Learning**, 
 [iConference 2020](https://ischools.org/iConference-2020-Preview), March 23-26, 
@@ -69,3 +74,13 @@ through Space and Time, or: Making Historical Travelogues Accessible.**
 NKOS 2018 Workshop, available in the [proceedings](http://ceur-ws.org/Vol-2200/).
 The [presentation (PDF, 1,4MB)](https://at-web1.comp.glam.ac.uk/pages/research/hypermedia/nkos/nkos2018/content/5-Jan-Roerden.pdf)
 is also available, thanks to the workshop organizers.
+
+## Press
+
+**Arno Strohmeyer: 'Der Orient - das unbekannte Bekannte'**, Wiener Zeitung, 
+Print and [Online](https://www.wienerzeitung.at/meinung/gastkommentare/2044761-Der-Orient-das-unbekannte-Bekannte.html?em_cnt_page=3) 05.01.2020.
+
+**Erika Pichler, Alte Reiseberichte über den "Orient"**, Die Presse, 
+Print und [Online](https://www.diepresse.com/5742100/alte-reiseberichte-uber-den-orient) 21.12.2019.
+
+ 
