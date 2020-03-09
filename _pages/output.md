@@ -22,7 +22,7 @@ by the Travelogues-Project. More details can be found [here](/intotheunknown).
 **Lisa Brunner, Martin Krickl, Christoph Würflinger: Conference Report: On the Way 
 into the Unknown? Comparative Perspectives on the "Orient" in (Early) Modern 
 Travelogues**, 28.11.2019 – 30.11.2019 Vienna, in: H-Soz-Kult, 07.03.2020, 
-<www.hsozkult.de/conferencereport/id/tagungsberichte-8682>.
+<http://www.hsozkult.de/conferencereport/id/tagungsberichte-8682>.
 
 **Jan Rörden, Doris Gruber, Martin Krickl, Bernhard Haslhofer: Identifying 
 Historical Travelogues in Large Text Corpora Using Machine Learning**, 
