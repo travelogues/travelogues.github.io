@@ -11,6 +11,11 @@ excerpt: "Travelogues: Perceptions of the Other 1500-1876<br> – A Computerized
 #   - excerpt: "We are very happy to announce the [preliminary programme](/intotheunknown/) for the Conference **'On the Way into the Unknown?
 #   Comparative Perspectives on the 'Orient' in (Early) Modern Travelogues'** in Vienna on 28.–30.11.2019."
 feature_row:
+  - title: "Conference Report Online"
+    excerpt: "We are very happy to announce that the report for our conference held in Vienna in November 2019 is online"
+    url: /conference-report-online
+    btn_label: Read More
+    btn_class: btn--inverse
   - title: "Travelogues at the iConference"
     excerpt: "We will be presenting our paper 'Identifying Historical Travelogues in Large Text Corpora Using Machine Learning' at
     the iConference in Borås, Sweden"
@@ -22,11 +27,11 @@ feature_row:
     url: http://github.com/travelogues/travelogues-corpus
     btn_label: Read More
     btn_class: btn--inverse
-  - title: "On the Way into the Unknown"
-    excerpt: "We thank all speakers and participants of our conference on 28.–30.11.2019 in Vienna"
-    url: /on-the-way-into-the-unknown
-    btn_label: Read More
-    btn_class: btn--inverse 
+# - title: "On the Way into the Unknown"
+#   excerpt: "We thank all speakers and participants of our conference on 28.–30.11.2019 in Vienna"
+#   url: /on-the-way-into-the-unknown
+#   btn_label: Read More
+#   btn_class: btn--inverse 
 # - title: "Article in 'Wiener Zeitung'"
 #   excerpt: "Our project lead Arno Strohmeyer contributed an article to the Jan 4 print edition of the 'Wiener Zeitung', one of the largest daily newspapers in Austria."
 #   url: /wienerzeitung-jan-2020
