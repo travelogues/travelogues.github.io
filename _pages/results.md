@@ -1,9 +1,9 @@
 ---
-permalink: /output/
-title: Project output
+permalink: /results/
+title: Project results
 layout: single
 toc: true
-toc_label: Project output
+toc_label: Project results
 ---
 
 ## Code
