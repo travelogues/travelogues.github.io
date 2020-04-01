@@ -11,6 +11,11 @@ excerpt: "Travelogues: Perceptions of the Other 1500-1876<br> – A Computerized
 #   - excerpt: "We are very happy to announce the [preliminary programme](/intotheunknown/) for the Conference **'On the Way into the Unknown?
 #   Comparative Perspectives on the 'Orient' in (Early) Modern Travelogues'** in Vienna on 28.–30.11.2019."
 feature_row:
+  - title: "Best Paper Award at iConference 2020"
+    excerpt: "We are proud to announce that our contribution to the iConference 2020 in Borås, Sweden won the Lee Dirks Award for Best Full Paper"
+    url: /best-paper-iconference-2020
+    btn_label: Read More
+    btn_class: btn--inverse
   - title: "Conference Report Online"
     excerpt: "We are very happy to announce that the report for our conference held in Vienna in November 2019 is online"
     url: /conference-report-online
@@ -22,11 +27,11 @@ feature_row:
     url: /travelogues-at-the-iconference
     btn_label: Read More
     btn_class: btn--inverse
-  - title: "Initial Release of the Travelogues Corpus"
-    excerpt: "We are happy to announce the release of the most extensive open data collection of early modern German travelogues ever created"
-    url: http://github.com/travelogues/travelogues-corpus
-    btn_label: Read More
-    btn_class: btn--inverse
+# - title: "Initial Release of the Travelogues Corpus"
+#   excerpt: "We are happy to announce the release of the most extensive open data collection of early modern German travelogues ever created"
+#   url: http://github.com/travelogues/travelogues-corpus
+#   btn_label: Read More
+#   btn_class: btn--inverse
 # - title: "On the Way into the Unknown"
 #   excerpt: "We thank all speakers and participants of our conference on 28.–30.11.2019 in Vienna"
 #   url: /on-the-way-into-the-unknown
