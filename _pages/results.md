@@ -77,6 +77,9 @@ is also available, thanks to the workshop organizers.
 
 ## Press
 
+**Karin Krichmayr: 'Computer analysieren historische Reiseliteratur'**, Der Standard, 
+Print and [Online](https://www.derstandard.at/story/2000116459111/computer-analysieren-historische-reiseliteratur) 01.04.2020.
+
 **Arno Strohmeyer: 'Der Orient - das unbekannte Bekannte'**, Wiener Zeitung, 
 Print and [Online](https://www.wienerzeitung.at/meinung/gastkommentare/2044761-Der-Orient-das-unbekannte-Bekannte.html?em_cnt_page=3) 05.01.2020.
 
