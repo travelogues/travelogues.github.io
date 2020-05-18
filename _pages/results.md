@@ -19,16 +19,14 @@ by the Travelogues-Project. More details can be found [here](/intotheunknown).
 
 ## Publications and Conference Presentations
 
+**Doris Gruber, Martin Krickl, Lijun Lyu, Jan Rörden and Arno Strohmeyer: Travelogues: Fremdwahrnehmungen in Reiseberichten 1500–1876**, in: Marlene Ernst et al. (Hg.): digital humanities austria 2018. empowering researchers. Unter Mitarbeit von Verena M. Höller. Wien: Austrian Academy of Sciences Press 2020, 62–66, <https://epub.oeaw.ac.at/?arp=0x003b3d14>.
+
 **Lisa Brunner, Martin Krickl, Christoph Würflinger: Conference Report: On the Way 
 into the Unknown? Comparative Perspectives on the "Orient" in (Early) Modern 
 Travelogues**, 28.11.2019 – 30.11.2019 Vienna, in: H-Soz-Kult, 07.03.2020, 
 <http://www.hsozkult.de/conferencereport/id/tagungsberichte-8682>.
 
-**Jan Rörden, Doris Gruber, Martin Krickl, Bernhard Haslhofer: Identifying 
-Historical Travelogues in Large Text Corpora Using Machine Learning**, 
-[iConference 2020](https://ischools.org/iConference-2020-Preview), March 23-26, 
-Borås, Sweden (accepted for presentation and named finalist for the 
-[Lee Dirks Award for Best Full Research Paper](https://ischools.org/page-18328)).
+**Jan Rörden, Doris Gruber, Martin Krickl and Bernhard Haslhofer: Identifying Historical Travelogues in Large Text Corpora Using Machine Learning**, in: Anneli Sundqvist et al. (ed.): Sustainable Digital Communities. 15th International Conference, iConference 2020. Boras, Sweden, March 23–26, 2020. Proceedings. Cham: Springer International Publishing 2020 (= Lecture Notes in Computer Science book series (LNCS). 12051), 801–815 [Winner of the [Lee Dirks Award for Best Full Research Paper](https://ischools.org/page-18328)]
 
 **Doris Gruber, Elisabeth Lobenwein and Arno Strohmeyer: Travelogues – 
 Perceptions of the Other 1500–1876. A Computerized Analysis.** In: Thomas 
@@ -86,4 +84,10 @@ Print and [Online](https://www.wienerzeitung.at/meinung/gastkommentare/2044761-D
 **Erika Pichler, Alte Reiseberichte über den "Orient"**, Die Presse, 
 Print und [Online](https://www.diepresse.com/5742100/alte-reiseberichte-uber-den-orient) 21.12.2019.
 
- 
+## Awards
+
+**Jan Rörden, Doris Gruber, Martin Krickl, Bernhard Haslhofer: Identifying 
+Historical Travelogues in Large Text Corpora Using Machine Learning**, 
+[iConference 2020](https://ischools.org/iConference-2020-Preview), March 23-26, 
+Borås, Sweden [Lee Dirks Award for Best Full Research Paper](https://ischools.org/page-18328).
+
