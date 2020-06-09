@@ -101,10 +101,10 @@ Austrian National Library<br>
 <div style="display:table; border-spacing: 0 1em;">
 
 <div markdown="1" style="display:table-row;">
-<img src="/images/team/Besnik_Fetahu.jpg" alt="Portrait Besnik Fetahu" style="width:30%; float:left; margin-right: 2%;">
-Dr. Besnik Fetahu <a href="https://www.l3s.de/en/users/fetahu"><i class="fas fa-info-circle"></i></a><br>
+<img src="/images/team/avishek.jpg" alt="Portrait Dr. Avishek Anand" style="width:30%; float:left; margin-right: 2%;">
+Ass. Prof. Dr. Avishek Anand <a href="https://www.l3s.de/~anand/"><i class="fas fa-info-circle"></i></a><br>
 Leibniz University Hannover, L3S<br>
-[fetahu(at)l3s.de](javascript:linkTo_UnCryptMailto('nbjmup;gfubivAm4t/ef');)
+[anand(at)l3s.de](javascript:linkTo_UnCryptMailto('nbjmup;boboeAm4t/ef');)
 </div>
 
 <div markdown="1" style="display:table-row;">
@@ -125,6 +125,13 @@ Leibniz University Hannover, L3S<br>
 Jan Rörden<a href="https://www.ait.ac.at/en/"><i class="fas fa-info-circle"></i></a><br>
 Austrian Institute of Technology<br>
 [jan.roerden(at)ait.ac.at](javascript:linkTo_UnCryptMailto('nbjmup;kbo/spfsefoAbju/bd/bu');)
+</div>
+
+<div markdown="1" style="display:table-row;">
+<img src="/images/team/Besnik_Fetahu.jpg" alt="Portrait Besnik Fetahu" style="width:30%; float:left; margin-right: 2%;">
+Dr. Besnik Fetahu <a href="https://www.l3s.de/en/users/fetahu"><i class="fas fa-info-circle"></i></a><br>
+Leibniz University Hannover, L3S<br>
+[fetahu(at)l3s.de](javascript:linkTo_UnCryptMailto('nbjmup;gfubivAm4t/ef');)
 </div>
 
 </div>
