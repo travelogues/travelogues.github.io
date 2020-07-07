@@ -19,6 +19,8 @@ by the Travelogues-Project. More details can be found [here](/intotheunknown).
 
 ## Publications and Conference Presentations
 
+**Christiane Fritze and Martin Krickl: Austrian Books Online – Acht Jahre Digitalisierung des historischen Buchbestandes der Österreichischen Nationalbibliothek mit Google**, in: Bibliothek Forschung und Praxis 44/1 (2020), 89–99.
+
 **Doris Gruber, Martin Krickl, Lijun Lyu, Jan Rörden and Arno Strohmeyer: Travelogues: Fremdwahrnehmungen in Reiseberichten 1500–1876**, in: Marlene Ernst et al. (Hg.): digital humanities austria 2018. empowering researchers. Unter Mitarbeit von Verena M. Höller. Wien: Austrian Academy of Sciences Press 2020, 62–66, <https://epub.oeaw.ac.at/?arp=0x003b3d14>.
 
 **Lisa Brunner, Martin Krickl, Christoph Würflinger: Conference Report: On the Way 
