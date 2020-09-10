@@ -1,5 +1,5 @@
 ---
-title: "News Article in 'Die Presse'"
+title: "News Article in 'Der Standard'"
 share: true
 permalink: /derstandard-apr-2020/
 ---
