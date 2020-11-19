@@ -11,6 +11,11 @@ excerpt: "Travelogues: Perceptions of the Other 1500-1876<br> – A Computerized
 #   - excerpt: "We are very happy to announce the [preliminary programme](/intotheunknown/) for the Conference **'On the Way into the Unknown?
 #   Comparative Perspectives on the 'Orient' in (Early) Modern Travelogues'** in Vienna on 28.–30.11.2019."
 feature_row:
+  - title: "Travelogues at the ONB Labs"
+    excerpt: "The ONB Labs 'Bring your project' initiative supported our work on bibliographic metadata extration"
+    url: /2020-11-19-bring-your-project
+    btn_label: Read More
+    btn_class: btn--inverse
   - title: "Article in 'Der Standard'"
     excerpt: "Austrian newspaper 'Der Standard' has published a news article about the project in their April 1 print edition and online."
     url: /derstandard-apr-2020
@@ -21,11 +26,11 @@ feature_row:
     url: /best-paper-iconference-2020
     btn_label: Read More
     btn_class: btn--inverse
-  - title: "Conference Report Online"
-    excerpt: "We are very happy to announce that the report for our conference held in Vienna in November 2019 is online"
-    url: /conference-report-online
-    btn_label: Read More
-    btn_class: btn--inverse
+#  - title: "Conference Report Online"
+#    excerpt: "We are very happy to announce that the report for our conference held in Vienna in November 2019 is online"
+#    url: /conference-report-online
+#    btn_label: Read More
+#    btn_class: btn--inverse
 # - title: "Travelogues at the iConference"
 #   excerpt: "We will be presenting our paper 'Identifying Historical Travelogues in Large Text Corpora Using Machine Learning' at the iConference in Borås, Sweden"
 #   url: /travelogues-at-the-iconference
