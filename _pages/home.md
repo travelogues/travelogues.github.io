@@ -12,7 +12,7 @@ excerpt: "Travelogues: Perceptions of the Other 1500-1876<br> – A Computerized
 #   Comparative Perspectives on the 'Orient' in (Early) Modern Travelogues'** in Vienna on 28.–30.11.2019."
 feature_row:
   - title: "Travelogues at the ONB Labs"
-    excerpt: "The ONB Labs 'Bring your project' initiative supported our work on bibliographic metadata extration"
+    excerpt: "The ONB Labs 'Bring your project' initiative supported our work on bibliographic metadata extraction."
     url: /2020-11-19-bring-your-project
     btn_label: Read More
     btn_class: btn--inverse
