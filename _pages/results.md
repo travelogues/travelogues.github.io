@@ -93,3 +93,8 @@ Historical Travelogues in Large Text Corpora Using Machine Learning**,
 [iConference 2020](https://ischools.org/iConference-2020-Preview), March 23-26, 
 Borås, Sweden [Lee Dirks Award for Best Full Research Paper](https://ischools.org/page-18328).
 
+## Other
+
+**Martin Krickl**, [VD17 analysis and data extraction from ALMA](https://labs.onb.ac.at/en/topic/vd17-analysis/). Blogpost on Onb-labs.
+
+
