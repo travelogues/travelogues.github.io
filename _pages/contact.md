@@ -10,7 +10,7 @@ toc-label: Contact
 
 <p>
 Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes<br>
-Österreichische Akademie der Wissenschaften
+Österreichische Akademie der Wissenschaften<br>
 <a href="https://www.oeaw.ac.at/oeaw/impressum">Impressum</a>
 </p>
 
