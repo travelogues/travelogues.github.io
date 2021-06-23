@@ -15,7 +15,7 @@ In the viewer application you can search for any string in the fulltext (e.g. "P
 
 ![Search the fulltext in the ONB Viewer](/images/Fulltext-for-travelogue_Screenshor_3.jpg)
 
-#### How do I get the fulltext for a travelogue? ####
+#### How do get the fulltext for a travelogue? ####
 
 For downloading fulltext of a single travelogue (i.e. fulltext of one digitized copy) we offer a [Jupyter-Notebook](https://labs.onb.ac.at/gitlab/georgp/sacha-txt-downloader/) in the [*ONB Labs*](https://labs.onb.ac.at/en/) GitLab named "txt-downloader". By running this notebook, you will get a ZIP-folder in the output-repository of the Binder application, which you may download. The ZIP-folder contains plain-text-files for each page plus a text-file, in which all text-files of the single pages are combined into one file. Please note that neither structural metadata for page sequence is contained in the combined text file nor markedup for page breaks. 
 
