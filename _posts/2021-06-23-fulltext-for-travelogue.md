@@ -17,12 +17,13 @@ In the viewer application you can search for any string in the fulltext (e.g. "P
 
 #### How do I get the fulltext for a travelogue? ####
 
+For downloading fulltext of a single travelogue (i.e. fulltext of one digitized copy) we offer a [Jupyter-Notebook](https://labs.onb.ac.at/gitlab/georgp/sacha-txt-downloader/) in the [*ONB Labs*](https://labs.onb.ac.at/en/) GitLab named "txt-downloader". By running this notebook, you will get a ZIP-folder in the output-repository of the Binder application, which you may download. The ZIP-folder contains plain-text-files for each page plus a text-file, in which all text-files of the single pages are combined into one file. Please note that neither structural metadata for page sequence is contained in the combined text file nor markedup for page breaks. 
+
 >**Note:** Each digitized item is identified by a **barcode** (e.g. *Von der Alster zu den Pyramiden* +Z257607709). For downloading fulltext via the ONB Labs Juypter Notebook you have to input the barcode identifier of the item, for which you want to download the fulltext. You can find the barcode in the item overview, which opens by clicking on a single result for your search query.
 
-
-
-For downloading fulltext of a single travelogue (i.e. fulltext of one digitized copy) we offer a [Jupyter-Notebook](https://labs.onb.ac.at/gitlab/georgp/sacha-txt-downloader/) in the [*ONB Labs*](https://labs.onb.ac.at/en/) GitLab named "txt-downloader". By running this notebook, you will get a ZIP-folder in the output-repository of the Binder application, which you may download. The ZIP-folder contains plain-text-files for each page plus a text-file, in which all text-files of the single pages are combined into one file. Please note that neither structural metadata for page sequence is contained in the combined text file nor markedup for page breaks. 
+![Barcode for digitized item](/images/Fulltext-for-travelogue_Screenshot_5.jpg)
 
 ![Notebook in the ONB Labs GitLabs](/images/Fulltext-for-travelogue_Screenshot_4.jpg)
 
-By clicking on **launch binder** a Binder instance is being launched. As soon as the Jupyter-notebook opens up you may start the application by clicking the ![run](/images/Fulltext-for-travelogue_Screenshot_5.jpg) button. By re-clicking the run button three times an input-bar appears. Please enter the barcode in the form of the example given. Read the post [Searching for Travelogues](https://travelogues-project.info/2021-04-21-searching-for-travelogues/) on how to find the barcode. 
+By clicking on **launch binder** a Binder instance is being launched. As soon as the Jupyter-notebook opens up you may start the application by clicking the ![run](/images/Fulltext-for-travelogue_Screenshot_5.jpg) button. By re-clicking the run button three times an input-bar appears. Please enter the barcode (see **Note** above) in the form of the example given.  
+
