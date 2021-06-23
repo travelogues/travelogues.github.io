@@ -23,7 +23,7 @@ In the viewer application you can search for any string in the fulltext (e.g. "P
 
 For downloading fulltext of a single travelogue (i.e. fulltext of one digitized copy) we offer a [Jupyter-Notebook](https://labs.onb.ac.at/gitlab/georgp/sacha-txt-downloader/) in the [*ONB Labs*](https://labs.onb.ac.at/en/) GitLab named "txt-downloader". By running this notebook, you will get a ZIP-folder in the output-repository of the Binder application, which you may download. The ZIP-folder contains plain-text-files for each page plus a text-file, in which all text-files of the single pages are combined into one file. Please note that neither structural metadata for page sequence is contained in the combined text file nor markedup for page breaks. 
 
->**Note:** Each digitized item is identified by a **barcode** (e.g. *Von der Alster zu den Pyramiden* +Z257607709). For downloading fulltext via the ONB Labs Juypter Notebook you have to input the barcode identifier of the item, for which you want to download the fulltext. You can find the barcode in the item overview, which opens by clicking on a single result for your search query in the Quicksearch catalog. Please copy the barcode!
+>**Note:** Each digitized item is identified by a **barcode** (e.g. *Von der Alster zu den Pyramiden* +Z257607709). For downloading fulltext via the ONB Labs Jupyter Notebook you have to input the barcode identifier of the item, for which you want to download the fulltext. You can find the barcode in the item overview, which opens by clicking on a single result for your search query in the *Quicksearch* catalog. Please copy the barcode!
 
 ![Barcode for digitized item](/images/Fulltext-for-travelogue_Screenshot_6.jpg)
 
