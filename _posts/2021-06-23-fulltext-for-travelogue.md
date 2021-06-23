@@ -33,7 +33,7 @@ As soon as you have copied the barcode identifier for the digitized travelogue, 
 
 The first step is to click on **launch binder**. A Binder instance is being launched in a separate browser window. As soon as the Jupyter-notebook opens up you may start the application by clicking the ![run](/images/Fulltext-for-travelogue_Screenshot_5.JPG) button. By re-clicking the run button three times an input-bar appears. Please enter the barcode (see **Note** above) in the form of the example given and press return. 
 
-![Enter barcode](/images/Fulltext-for-travelogue_Screenshor_7.jpg)
+![Enter barcode](/images/Fulltext-for-travelogue_Screenshot_7.jpg)
 
 Proceed to the next "In" command, click on the command box and then click the ![run](/images/Fulltext-for-travelogue_Screenshot_5.JPG) button until the single text-files are being downloaded. At the end you will get a link to a ZIP-file ("barcode.zip"). 
 
