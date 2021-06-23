@@ -17,7 +17,7 @@ By right-clicking over any page (s. Screenshot), a menu opens up. You may rotate
 
 In the viewer application you can search for any string in the fulltext (e.g. "Pyramide). The results are marked in the text and you can click through the selected result pages in the menu bar. 
 
-![Search the fulltext in the ONB Viewer](/images/Fulltext-for-travelogue_Screenshot_3.jpg)
+![Search the fulltext in the ONB Viewer](/images/Fulltext-for-travelogue_Screenshot_3.JPG)
 
 ## How to get the fulltext for a travelogue ##
 
