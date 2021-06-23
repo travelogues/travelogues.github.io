@@ -11,7 +11,7 @@ In our post [Searching for Travelogues](https://travelogues-project.info/2021-04
 
 ![Access digitized item in the ONB Viewer](/images/Fulltext-for-travelogue_Screenshot_1.jpg)
 
-By right-clicking over any page (s. Screenshot), a menu opens up. You may rotate the image to the left or to the right. You may also download either the page currently shown ("Bild herunterladen") or the whole book ("Buch herunterladen").
+By right-clicking over any page (s. Screenshot), a menu opens up. You may rotate the image to the left or to the right. You may also download either the image of the page currently shown ("Bild herunterladen") or images of the whole book ("Buch herunterladen") as PDF-files.
 
 ![Download-menu in the ONB Viewer](/images/Fulltext-for-travelogue_Screenshot_2.jpg)
 
