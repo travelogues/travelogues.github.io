@@ -40,8 +40,10 @@ By clicking on "Online access" (*Online-Zugriff*), you may view **digitized item
 
 ![Digitized Item in ABO-Viewer](/images/Quicksearch_Screenshot_8.jpg)
 
-By selecting records and clicking on the red circle with the three dots next to the pin, you may also **download bibliographical metadata** in csv or xlsx format.
+By selecting records of search results in *Quicksearch* and clicking on the red circle with the three dots next to the pin, you may also **download bibliographical metadata** in csv or xlsx format.
 
 ![Export of metadata from Quicksearch](/images/Quicksearch_Screenshot_4.jpg)].
 
 For more detailed metadata sheets, please visit our [Github Repository](https://github.com/travelogues) or contact our librarian at <martin.krickl@onb.ac.at>.
+
+>**Note:** Read the follow-up-post on how to download images and fulltext for a single travelogue!
