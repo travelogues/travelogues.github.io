@@ -25,11 +25,11 @@ For downloading fulltext of a single travelogue (i.e. fulltext of one digitized 
 
 >**Note:** Each digitized item is identified by a **barcode** (e.g. *Von der Alster zu den Pyramiden* +Z257607709). For downloading fulltext via the ONB Labs Juypter Notebook you have to input the barcode identifier of the item, for which you want to download the fulltext. You can find the barcode in the item overview, which opens by clicking on a single result for your search query in the Quicksearch catalog. Please copy the barcode!
 
-![Barcode for digitized item](/images/Fulltext-for-travelogue_Screenshot_5.JPG)
+![Barcode for digitized item](/images/Fulltext-for-travelogue_Screenshot_6.jpg)
 
 ![Notebook in the ONB Labs GitLabs](/images/Fulltext-for-travelogue_Screenshot_4.JPG)
 
-By clicking on **launch binder** a Binder instance is being launched. As soon as the Jupyter-notebook opens up you may start the application by clicking the ![run](/images/Fulltext-for-travelogue_Screenshot_5.jpg) button. By re-clicking the run button three times an input-bar appears. Please enter the barcode (see **Note** above) in the form of the example given and press return. Proceed to the next "In" command, click on the command box and then click the ![run](/images/Fulltext-for-travelogue_Screenshor_5.jpg) button until the single text-files are being downloaded. At the end you will get a link to ZIP-file ("barcode.zip"). 
+By clicking on **launch binder** a Binder instance is being launched. As soon as the Jupyter-notebook opens up you may start the application by clicking the ![run](/images/Fulltext-for-travelogue_Screenshot_5.JPG) button. By re-clicking the run button three times an input-bar appears. Please enter the barcode (see **Note** above) in the form of the example given and press return. Proceed to the next "In" command, click on the command box and then click the ![run](/images/Fulltext-for-travelogue_Screenshor_5.JPG) button until the single text-files are being downloaded. At the end you will get a link to ZIP-file ("barcode.zip"). 
 
 >**Note**: **Only non commercial use** is allowed for images of ONB's digitized items as well as fulltexts. Please note the [right statement](https://rightsstatements.org/page/NoC-NC/1.0/?language=en) for items digitized in public-private-partnership with Google, as are all digitized travelogues of our corpus. 
 
