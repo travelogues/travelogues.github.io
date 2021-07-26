@@ -21,23 +21,30 @@ In the viewer application you can search for any string in the fulltext (e.g. "P
 
 ## How to get the fulltext for a travelogue ##
 
-For downloading fulltext of a single travelogue (i.e. fulltext of one digitized copy) we offer a [Jupyter-Notebook](https://labs.onb.ac.at/gitlab/georgp/sacha-txt-downloader/) in the [*ONB Labs*](https://labs.onb.ac.at/en/) GitLab named "txt-downloader". By running this notebook, you will get a ZIP-folder in the output-repository of the Binder application, which you may download. The ZIP-folder contains plain-text-files for each page plus a text-file, in which all text-files of the single pages are combined into one file. Please note that neither structural metadata for page sequence is contained in the combined text file nor markup for page breaks. 
+For downloading the fulltext of a single travelogue (i.e. fulltext of one digitized copy) we offer a [Jupyter-Notebook](https://labs.onb.ac.at/gitlab/georgp/sacha-txt-downloader/) named "txt-downloader" in the [*ONB Labs*](https://labs.onb.ac.at/en/) GitLab. By running this notebook via Binder, you will get a ZIP-folder in the output-repository of the Binder application, which you may download. The ZIP-folder contains plain-text-files for each page plus a text-file, in which all text-files of the single pages are combined into one file. Please note that neither structural metadata for page sequence is contained in the combined text file nor any markup (e.g. page breaks). 
 
->**Note:** Each digitized item is identified by a **barcode** (e.g. *Von der Alster zu den Pyramiden* +Z257607709). For downloading fulltext via the ONB Labs Jupyter Notebook you have to input the barcode identifier of the item, for which you want to download the fulltext. You can find the barcode in the item overview, which opens by clicking on a single result for your search query in the *Quicksearch* catalog. Please copy the barcode!
 
-![Barcode for digitized item](/images/Fulltext-for-travelogue_Screenshot_6.jpg)
-
-As soon as you have copied the barcode identifier for the digitized travelogue, you can start running the [Jupyter-Notebook](https://labs.onb.ac.at/gitlab/georgp/sacha-txt-downloader/). 
++ First step: Click on [Jupyter-Notebook](https://labs.onb.ac.at/gitlab/georgp/sacha-txt-downloader/)
 
 ![Notebook in the ONB Labs GitLabs](/images/Fulltext-for-travelogue_Screenshot_4.JPG)
 
-The first step is to click on **launch binder**. A Binder instance is being launched in a separate browser window. As soon as the Jupyter-notebook opens up you may start the application by clicking the ![run](/images/Fulltext-for-travelogue_Screenshot_5.JPG) button. By re-clicking the run button three times an input-bar appears. Please enter the barcode (see **Note** above) in the form of the example given and press the Return key. 
++ Second step: click on **launch binder**. A Binder instance is being launched in a separate browser window. 
+
++ Third step: As soon as the Jupyter-Notebook opens you may start the application by clicking on "run all" in the menu "cells". Command blocks (cells) executed will have a counter in front, those not completed an asterisk (/*). 
+
+[!Run all cells in Notebook](/images/Fulltext-for-travelogue_Screenshot_5.jpg)
+
++ Forth step: In the second cell - which will be marked by an asterisk as not yet completed - will appear an insert bar. Please enter the barcode in the form of the example given (without dot at the end) and press the Return key. Please read the following note on how to get the barcode!
 
 ![Enter barcode](/images/Fulltext-for-travelogue_Screenshot_7.jpg)
 
-Proceed to the next "In" command, click on the command box and then click the ![run](/images/Fulltext-for-travelogue_Screenshot_5.JPG) button until the single text-files are being downloaded. At the end you will get a link to a ZIP-file ("barcode.zip"). 
+>**Note:** Each digitized item is identified by a **barcode** (e.g. *Von der Alster zu den Pyramiden* +Z257607709). For downloading fulltext via the ONB Labs Jupyter-Notebook you have to input the barcode identifier of the item, for which you want to download the fulltext. You can find the barcode in the item overview, which opens by clicking on a single result for your search query in the *Quicksearch* catalog. Please copy the barcode!
 
->**Note**: **Only non commercial use** is allowed for images of ONB's digitized items as well as fulltexts. Please note the [right statement](https://rightsstatements.org/page/NoC-NC/1.0/?language=en) for items digitized in public-private-partnership with Google, as are all digitized travelogues of our corpus. 
+![Barcode for digitized item](/images/Fulltext-for-travelogue_Screenshot_6.jpg)
+
++ Fifth step: Have you pressed the Return key after insertion of the barcode? The download will start for each single txt-file. At the end you will get a link to a ZIP-file ("barcode.zip") in the "Out"-cell. 
+
+>**Note**: Our travelogues are part of Austrian Books Online (ABO), a public-private partnership of the Austrian National Library with Google Books. You may only use digitized items and fulltexts from ABO by accepting the [right statement](https://rightsstatements.org/page/NoC-NC/1.0/?language=en) for **non commercial use only**. Please also note that you are allowed to use this notebook only for the download of individual barcodes (no bulk download allowed!).
 
 For help or further information please contact our librarian at <martin.krickl@onb.ac.at>.
 
