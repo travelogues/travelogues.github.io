@@ -32,7 +32,7 @@ For downloading the fulltext of a single travelogue (i.e. fulltext of one digiti
 
 + Third step: As soon as the Jupyter-Notebook opens you may start the application by clicking on "run all" in the menu "cells". Command blocks (cells) executed will have a counter in front, those not completed an asterisk (/*). 
 
-![Run all cells in Notebook](/images/Fulltext-for-travelogue_Screenshot_5.jpg)
+![Run all cells in Notebook](/images/Fulltext-for-travelogue_Screenshot_5(1).jpg)
 
 + Forth step: In the second cell - which will be marked by an asterisk as not yet completed - will appear an insert bar. Please enter the barcode in the form of the example given (without dot at the end) and press the Return key. Please read the following note on how to get the barcode!
 
