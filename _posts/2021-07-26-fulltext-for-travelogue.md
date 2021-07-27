@@ -1,6 +1,6 @@
 | title | share | permalink |
 | ----  | ----  | ---- |
-| Images and fulltext for travelogue | true | /2021-06-23-fulltext-for-travelogue |
+| Images and fulltext for travelogue | true | /2021-07-26-fulltext-for-travelogue |
 
 >**Note**: This post offers a description for how to download images and fulltext for a single travelogue of our corpus, if you are not familiar with the *Austrian National Library's* programming interface (API) [SACHA](https://iiif.onb.ac.at). If you are interested in images or fulltexts for the whole Travelogues-corpus, please contact our team. 
 
