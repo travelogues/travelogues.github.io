@@ -21,7 +21,7 @@ In the viewer application you can search for any string in the fulltext (e.g. "P
 
 ## How to get the fulltext for a travelogue ##
 
-For downloading the fulltext of a single travelogue (i.e. fulltext of one digitized copy) we offer a [Jupyter-Notebook](https://labs.onb.ac.at/gitlab/georgp/sacha-txt-downloader/) named "txt-downloader" in the [*ONB Labs*](https://labs.onb.ac.at/en/) GitLab. By running this notebook via Binder, you will get a ZIP-folder in the output-repository of the Binder application, which you may download. The ZIP-folder contains plain-text-files for each page plus a text-file, in which all text-files of the single pages are combined into one file. Please note that neither structural metadata for page sequence is contained in the combined text file nor any markup (e.g. page breaks). 
+For downloading the fulltext of a single travelogue (i.e. fulltext of one digitized copy) we offer a [Jupyter-Notebook](https://labs.onb.ac.at/gitlab/georgp/sacha-txt-downloader/) named "txt-downloader" in the [*ONB Labs*](https://labs.onb.ac.at/en/) GitLab. To run this tool you do not need to download any software or code, it runs in the browser via my Binder. By running this notebook, you will get a ZIP-folder in the output-repository of the Binder application, which you may download. The ZIP-folder contains plain-text-files for each page plus a text-file, in which all text-files of the single pages are combined into one file. Please note that neither structural metadata for page sequence is contained in the combined text file nor any markup (e.g. page breaks). 
 
 
 + First step: Click on [Jupyter-Notebook](https://labs.onb.ac.at/gitlab/georgp/sacha-txt-downloader/)
