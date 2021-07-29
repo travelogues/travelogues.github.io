@@ -34,7 +34,7 @@ For downloading the fulltext of a single travelogue (i.e. fulltext of one digiti
 
 ![Run all cells in Notebook](/images/Fulltext-for-travelogue_Screenshot_5(1).jpg)
 
-+ Forth step: In the second cell - which will be marked by an asterisk as not yet completed - will appear an insert bar. Please enter the barcode in the form of the example given (without dot at the end) and press the Return key. Please read the following note on how to get the barcode!
++ Forth step: In the second cell - which will be marked by an asterisk as not yet completed - will appear an insert bar. Please enter the barcode in the form of the example given (without dot or space at the end!) and press the Return key. Please read the following note on how to get the barcode!
 
 ![Enter barcode](/images/Fulltext-for-travelogue_Screenshot_7.jpg)
 
@@ -42,7 +42,7 @@ For downloading the fulltext of a single travelogue (i.e. fulltext of one digiti
 
 ![Barcode for digitized item](/images/Fulltext-for-travelogue_Screenshot_6.jpg)
 
-+ Fifth step: Have you pressed the Return key after insertion of the barcode? The download will start for each single txt-file. At the end you will get a link to a ZIP-file ("barcode.zip") in the "Out"-cell. 
++ Fifth step: Have you pressed the Return key after insertion of the barcode? The download will start for each single txt-file. After the next "In"-block you will see single lines for downloading single txt-files. You can click on any of them, to see the OCR-text for the single page chosen. At the end you will get a link to a ZIP-file "{barcode}.zip" in the "Out"-cell. 
 
 >**Note**: Our travelogues are part of Austrian Books Online (ABO), a public-private partnership of the Austrian National Library with Google Books. You may only use digitized items and fulltexts from ABO by accepting the [right statement](https://rightsstatements.org/page/NoC-NC/1.0/?language=en) for **non commercial use only**. Please also note that you are allowed to use this notebook only for the download of individual barcodes (no bulk download allowed!).
 
