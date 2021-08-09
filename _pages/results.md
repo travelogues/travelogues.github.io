@@ -19,6 +19,8 @@ by the Travelogues-Project. More details can be found [here](/intotheunknown).
 
 ## Publications and Conference Presentations
 
+**Lijun Lyu, Maria Koutraki, Martin Krickl, Besnik Fetahu: Neural OCR Post-Hoc Correction of Historical Corpora**, in: Transactions of the Association for Computational Linguistics 2021; 9 479–493. doi: <https://doi.org/10.1162/tacl_a_00379>
+
 **Christiane Fritze and Martin Krickl: Austrian Books Online – Acht Jahre Digitalisierung des historischen Buchbestandes der Österreichischen Nationalbibliothek mit Google**, in: Bibliothek Forschung und Praxis 44/1 (2020), 89–99.
 
 **Doris Gruber, Martin Krickl, Lijun Lyu, Jan Rörden and Arno Strohmeyer: Travelogues: Fremdwahrnehmungen in Reiseberichten 1500–1876**, in: Marlene Ernst et al. (Hg.): digital humanities austria 2018. empowering researchers. Unter Mitarbeit von Verena M. Höller. Wien: Austrian Academy of Sciences Press 2020, 62–66, <https://epub.oeaw.ac.at/?arp=0x003b3d14>.
