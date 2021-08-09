@@ -31,14 +31,11 @@ Our project focuses on travel accounts to the **Orient** (i.e., Ottoman \& Safav
 
 The **language** of the bibliographical descriptions is German, and keywords for persons, places, or regions are only available in German. Persons and places of publications are linked to the [*GND* (*Gemeinsame Normdatei*)](https://swb.bsz-bw.de/DB=2.104/SET=6/TTL=2/START_WELCOME). All resources in our dataset have been described by applying [*RDA* (Resource and Description Access)](https://www.rdaregistry.info/) in the data format [*MARC21*](https://www.loc.gov/marc/bibliographic/).
 
-Quicksearch also offers **facets** for monographs published in multiple parts (multipart item / *mehrteilige Ressourcen*) or series. ![Search for 19th century travelogues related to Orient](/images/Quicksearch_Screenshot_5.jpg)
+Quicksearch also offers **facets** for monographs published in multiple parts (multipart item / *mehrteilige Ressourcen*) or series. [![Search for 19th century travelogues related to Orient](/Quicksearch_Screenshot5.jpg)]
 Especially in the 18th and 19th centuries, *collective volumes* were very common. We offer compound descriptions for all travelogues (works) contained in collective volumes, which may be searched for by using the term "Zusammenstellung". Different editions or adaptations of works refer to each other by the same work title (*Werktitel*), which according to *RDA* is usually the title of the first publication or the title under which the work is most commonly known.
 
-By clicking on "Online access" (*Online-Zugriff*), you may view **digitized items** in a separate browser window, search OCR (Optical Character Recognition)-generated full texts, and download digitized images as a PDF. 
-
-![Online access to digitized item](/images/Quicksearch_Screenshot_7.jpg)
-
-![Digitized Item in ABO-Viewer](/images/Quicksearch_Screenshot_8.jpg)
+By clicking on "Online access" (*Online-Zugriff*), you may view **digitized items** in a separate browser window, search OCR (Optical Character Recognition)-generated full texts, and download digitized images as a PDF. [![Online access to digitized item](/Quicksearch_Screenshot7.jpg)]
+[![Digitized Item in ABO-Viewer](/Quicksearch_Screenshot8.jpg)]
 
 By selecting records of search results in *Quicksearch* and clicking on the red circle with the three dots next to the pin, you may also **download bibliographical metadata** in csv or xlsx format.
 
@@ -47,3 +44,4 @@ By selecting records of search results in *Quicksearch* and clicking on the red 
 For more detailed metadata sheets, please visit our [Github Repository](https://github.com/travelogues) or contact our librarian at <martin.krickl@onb.ac.at>.
 
 >**Note:** Read the follow-up-post on how to download images and fulltext for a single travelogue!
+
