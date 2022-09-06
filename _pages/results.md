@@ -19,6 +19,30 @@ by the Travelogues-Project. More details can be found [here](/intotheunknown).
 
 ## Publications and Conference Presentations
 
+**Doris Gruber: Intertextualität, in: Christina Antenhofer, Christoph Kühberger, Arno Strohmeyer (ed.), Digital Humanities in der Geschichtswissenschaft**, UTB-Band (forthcoming)
+
+**Doris Gruber, Martin Krickl, and Jan Rörden: Searching for Travelogues: Semi-Automatized Corpus Creation in Practice**, in: Marius Littschwager, Julian Gärtner (ed.): Traveling, Narrating, Comparing. Travel Narratives of the Americas from the 18th to 20th Century, Göttingen: Vandenhoeck & Ruprecht (= Global Poetics) (forthcoming)
+
+**Doris Gruber: Intermedialität und gedruckte Reiseberichte: Ein Modell zur semi-automatisierten Anwendung**, in: Philipp Hegel, Michael Krewet (ed.), Wissen in Buchgestalt, Wiesbaden: Harrassowitz (= Episteme in Bewegung. Beiträge zu einer transdisziplinären Wissensgeschichte) (forthcoming)
+
+**Doris Gruber, Arno Strohmeyer (ed.): On the Way to the (Un)known? The Ottoman Empire in Travelogues (c. 1450–1900)**, De Gruyter: Berlin / Boston 2022 (= Studies on Modern Orient), <https://doi.org/10.1515/9783110698046>
+
+**Doris Gruber: German-Language Travelogues on the “Orient” and the Importance of the Time and Place of Printing, 1500–1876**, in: Doris Gruber, Arno Strohmeyer (ed.): On the Way to the „(Un)Known“? The Ottoman Empire in Travelogues (c. 1450–1900), Berlin / Boston: De Gruyter, 2022 (= Studies on Modern Orient 36), 385–406, <https://doi.org/10.1515/9783110698046-019>
+
+**Arno Strohmeyer: On the Way to the “(Un)Known”? The Ottoman Empire in Modern Travelogues: Introduction**, in: Doris Gruber, Arno Strohmeyer (ed.): On the Way to the „(Un)Known“? The Ottoman Empire in Travelogues (c. 1450–1900), Berlin / Boston: De Gruyter, 2022 (= Studies on Modern Orient 36), 1–25, <https://doi.org/10.1515/9783110698046-001>
+
+**Doris Gruber: Europeans Encounter the World in Travelogues: 1450–1900**, in: European History Online (EGO), published by the Leibniz Institute of European History (IEG), Mainz 2022-03-08. URL: http://www.ieg-ego.eu/gruberd-2022-en, URN: urn:nbn:de:0159-2022011011 (2022-03-08)
+
+**Doris Gruber: German-language Travelogues and the Book Market: Interconnections and Specializations**, Reshaping the Early Modern Book World: Competition, Protection, Consumption, International Conference, University of Milano, 05–06|2022, <https://conference.emobooktrade.it/>
+
+**Doris Gruber: Semi-automatisierte Korpusgenerierung, Metadaten und Intertextualität: Zur computergestützten Analyse gedruckter Reiseberichte**, lecture as part of the Digital-History-Research Kolloquium at the Humboldt-University Berlin, 11.05.2022, Online on Youtube, <https://dhistory.hypotheses.org/1755>
+
+**Doris Gruber: Travelogues: Ein Einblick in die computergestützte Analyse deutschsprachiger Reiseberichte (1500–1876)**, Geschichte am Mittwoch – Geschichte im Dialog, lecture series at the Institute of History at the University of Vienna and of the Institute for Research on the Early Modern Period, 16.03.2022
+
+**Doris Gruber: Reiseberichte aus der Habsburgermonarchie. Schwerpunkte – Kontinuitäten – Verlagsprogramme**, Book History in the Habsburg Monarchy, University of Vienna, international conference, 11|2021
+
+**Doris Gruber, Jan Rörden, Rainer Simon, Martin Krickl, and Bernhard Haslhofer: Semi-Automatic Identification of Travelogues**, in: Book of Abstracts, DH2020 Conference, Ottawa, July 22–24, 2020, <https://dh2020.adho.org/wp-content/uploads/2020/07/503_SemiAutomaticIdentificationofTravelogues.html>
+
 **Lijun Lyu, Maria Koutraki, Martin Krickl, Besnik Fetahu: Neural OCR Post-Hoc Correction of Historical Corpora**, in: Transactions of the Association for Computational Linguistics 2021; 9 479–493. doi: <https://doi.org/10.1162/tacl_a_00379>
 
 **Christiane Fritze and Martin Krickl: Austrian Books Online – Acht Jahre Digitalisierung des historischen Buchbestandes der Österreichischen Nationalbibliothek mit Google**, in: Bibliothek Forschung und Praxis 44/1 (2020), 89–99.
