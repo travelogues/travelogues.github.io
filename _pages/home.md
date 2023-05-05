@@ -12,7 +12,7 @@ excerpt: "Travelogues: Perceptions of the Other 1500-1876<br> – A Computerized
 #   Comparative Perspectives on the 'Orient' in (Early) Modern Travelogues'** in Vienna on 28.–30.11.2019."
 feature_row:
   - title: "Follow-Up Project 'ONiT'"
-    excerpt: "We are very proud to announce that the follow-up project "Ottoman Nature in Travelogues" (ONiT) has been funded by the FWF."
+    excerpt: "We are very proud to announce that the follow-up project 'Ottoman Nature in Travelogues' (ONiT) has been funded by the FWF."
     url: /follow-up-project-ONiT
     btn_label: Read More
     btn_class: btn--inverse
