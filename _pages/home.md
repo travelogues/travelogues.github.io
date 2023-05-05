@@ -11,9 +11,14 @@ excerpt: "Travelogues: Perceptions of the Other 1500-1876<br> – A Computerized
 #   - excerpt: "We are very happy to announce the [preliminary programme](/intotheunknown/) for the Conference **'On the Way into the Unknown?
 #   Comparative Perspectives on the 'Orient' in (Early) Modern Travelogues'** in Vienna on 28.–30.11.2019."
 feature_row:
-  - title: "Travelogues at the ONB Labs"
-    excerpt: "The ONB Labs 'Bring your project' initiative supported our work on bibliographic metadata extraction."
-    url: /2020-11-19-bring-your-project
+#  - title: "Travelogues at the ONB Labs"
+#    excerpt: "The ONB Labs 'Bring your project' initiative supported our work on bibliographic metadata extraction."
+#    url: /2020-11-19-bring-your-project
+#    btn_label: Read More
+#    btn_class: btn--inverse
+  - title: "Follow-Up Project 'ONiT'"
+    excerpt: "We are very proud to announce that the follow-up project "Ottoman Nature in Travelogues" (ONiT) has been funded by the FWF."
+    url: /follow-up-project-ONiT
     btn_label: Read More
     btn_class: btn--inverse
   - title: "Article in 'Der Standard'"
